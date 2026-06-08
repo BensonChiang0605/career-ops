@@ -27,6 +27,16 @@
 
 - [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7923400 | Culture Amp | Scaled Customer Success Manager - 12 month FTC
 
+<!-- New from 2026-06-08 WebSearch scan (unverified — verify liveness before evaluating) -->
+- [ ] https://jobs.ashbyhq.com/workyard/b0f154ca-1131-49b8-b8c8-a72c9173e36c | Workyard | Product Manager (Sydney)
+- [ ] https://jobs.ashbyhq.com/workyard/7a4e5e1b-8da1-4c0d-8586-431e775d5375 | Workyard | Head of Product Marketing
+- [ ] https://job-boards.greenhouse.io/wgachidden/jobs/8328732002 | Who Gives A Crap | Senior Product Manager (AU) - Acquisition
+- [ ] https://job-boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager
+- [ ] https://www.coupang.jobs/en/jobs/5415217/head-of-growth-marketing/ | Coupang | Head of Growth Marketing (Taipei)
+- [ ] https://apply.workable.com/betfair/j/9FEBCBB518 | Betfair | Product Manager
+- [ ] https://job-boards.greenhouse.io/appier/jobs/1503875 | Appier | Product Manager (Taipei)
+- [ ] https://job-boards.greenhouse.io/appier/jobs/7114738 | Appier | Product Marketing Manager (APAC)
+
 ## Procesadas
 
 - [x] #001 | https://jobs.lever.co/nitra/4139a944-1c9f-43c6-94ed-960f4df213ae | Nitra | Product Manager (Taipei) | 3.8/5 | PDF ❌
