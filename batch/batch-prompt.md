@@ -353,7 +353,6 @@ On success, in Paso 5 use `pdf_emoji` = `✅` and in Paso 6 set `"pdf"` to the o
 | `{{LINKEDIN_DISPLAY}}` | (from profile.yml) |
 | `{{PORTFOLIO_URL}}` | (from profile.yml) |
 | `{{PORTFOLIO_DISPLAY}}` | (from profile.yml) |
-| `{{LOCATION}}` | (from profile.yml) |
 | `{{SECTION_SUMMARY}}` | Professional Summary / Resumen Profesional |
 | `{{SUMMARY_TEXT}}` | Summary personalizado con keywords |
 | `{{SECTION_COMPETENCIES}}` | Core Competencies / Competencias Core |

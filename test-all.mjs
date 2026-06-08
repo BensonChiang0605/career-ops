@@ -319,12 +319,23 @@ if (fileExists('providers/local-parser.mjs')) {
 const scanMode = fileExists('modes/scan.md') ? readFile('modes/scan.md') : '';
 if (
   scanMode.includes('local_parser_ok') &&
-  scanMode.includes('no repetir scraping caro') &&
-  scanMode.includes('nombre no listado en `local_parser_ok`')
+  scanMode.includes('no repeating expensive scraping') &&
+  scanMode.includes('name not listed in `local_parser_ok`')
 ) {
   pass('scan.md skips expensive levels after successful local parser');
 } else {
   fail('scan.md missing local_parser_ok skip rules for agent scan');
+}
+
+if (
+  scanMode.includes('MANDATORY') &&
+  scanMode.includes('pipeline integrity violation') &&
+  scanMode.includes('uncertain') &&
+  scanMode.includes('skipped_expired')
+) {
+  pass('scan.md enforces mandatory liveness gate and uncertain=expired rule for Level 3 URLs');
+} else {
+  fail('scan.md missing mandatory liveness gate or uncertain=expired rule for Level 3 WebSearch hits');
 }
 
 if (!fileExists('scripts/parsers/cohere_jobs.py')) {

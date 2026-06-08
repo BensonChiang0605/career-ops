@@ -41,6 +41,14 @@
     unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
   }
 
+  @font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('./fonts/cormorant-garamond.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
   * {
     margin: 0;
     padding: 0;
@@ -75,12 +83,12 @@
   }
 
   .header h1 {
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'Cormorant Garamond', serif;
     font-size: 28px;
-    font-weight: 700;
+    font-weight: 600;
     color: #1a1a2e;
     letter-spacing: -0.02em;
-    margin-bottom: 6px;
+    margin-bottom: 0;
     line-height: 1.1;
   }
 
@@ -91,22 +99,32 @@
     margin-bottom: 10px;
   }
 
-  .contact-row {
+  .header-top {
     display: flex;
-    flex-wrap: wrap;
-    gap: 8px 14px;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 6px;
+  }
+
+  .header-contact {
     font-family: 'DM Sans', sans-serif;
     font-size: 10.5px;
     line-height: 1.4;
     color: #555;
   }
 
-  .contact-row a {
+  .header-contact a {
     color: #555;
     text-decoration: none;
   }
 
-  .contact-row .separator {
+  .contact-line {
+    display: flex;
+    gap: 8px;
+    align-items: baseline;
+  }
+
+  .contact-line .separator {
     color: #ccc;
   }
 
@@ -168,7 +186,7 @@
     justify-content: space-between;
     align-items: baseline;
     gap: 12px;
-    margin-bottom: 4px;
+    margin-bottom: 6px;
   }
 
   .job-company {
@@ -188,7 +206,6 @@
     font-size: 11px;
     font-weight: 600;
     color: #333;
-    margin-bottom: 6px;
   }
 
   .job-location {
@@ -357,19 +374,19 @@
 
   <!-- HEADER -->
   <div class="header avoid-break">
-    <h1>{{NAME}}</h1>
-    <div class="header-gradient"></div>
-    <div class="contact-row">
-      <span>{{PHONE}}</span>
-      <span class="separator">|</span>
-      <span>{{EMAIL}}</span>
-      <span class="separator">|</span>
-      <a href="{{LINKEDIN_URL}}">{{LINKEDIN_DISPLAY}}</a>
-      <span class="separator">|</span>
-      <a href="{{PORTFOLIO_URL}}">{{PORTFOLIO_DISPLAY}}</a>
-      <span class="separator">|</span>
-      <span>{{LOCATION}}</span>
+    <div class="header-top">
+      <h1>{{NAME}}</h1>
+      <div class="header-contact">
+        <div class="contact-line">
+          <a href="{{LINKEDIN_URL}}">{{LINKEDIN_DISPLAY}}</a>
+          <span class="separator">|</span>
+          <a href="{{PORTFOLIO_URL}}">{{PORTFOLIO_DISPLAY}}</a>
+          <span class="separator">|</span>
+          <span>{{EMAIL}}</span>
+        </div>
+      </div>
     </div>
+    <div class="header-gradient"></div>
   </div>
 
   <!-- PROFESSIONAL SUMMARY -->
