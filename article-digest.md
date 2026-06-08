@@ -36,7 +36,6 @@
 
 ## Renmory — Market Expansion
 
-- Expanded from **Taiwan into Singapore and Hong Kong**, adapting product copy, onboarding flows, and marketing materials
 - Managed bilingual product operations (English and Traditional Chinese), including localising cultural concepts — e.g., mapping 二進 (Taiwanese wedding ceremony) to "reception" for Western audiences
 
 ---

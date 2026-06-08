@@ -147,15 +147,17 @@ async function generatePDF() {
     console.log(`🧹 ATS normalization: ${totalReplacements} replacements (${breakdown})`);
   }
 
-  const browser = await chromium.launch({ headless: true });
+  // Write processed HTML to a temp file so page.goto() can load file:// font URLs
+  // (setContent blocks file:// resources in Chromium's security model)
+  const { writeFile: writeTmp, unlink } = await import('fs/promises');
+  const tmpHtml = inputPath.replace(/\.html$/, '.tmp.html');
+  await writeTmp(tmpHtml, html);
+
+  const browser = await chromium.launch({ headless: true, args: ['--allow-file-access-from-files'] });
   try {
     const page = await browser.newPage();
 
-    // Set content with file base URL for any relative resources
-    await page.setContent(html, {
-      waitUntil: 'networkidle',
-      baseURL: `file://${dirname(inputPath)}/`,
-    });
+    await page.goto(`file://${tmpHtml}`, { waitUntil: 'networkidle' });
 
     // Wait for fonts to load
     await page.evaluate(() => document.fonts.ready);
@@ -188,6 +190,7 @@ async function generatePDF() {
     return { outputPath, pageCount, size: pdfBuffer.length };
   } finally {
     await browser.close();
+    await unlink(tmpHtml).catch(() => {});
   }
 }
 

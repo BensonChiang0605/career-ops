@@ -123,7 +123,7 @@ func ParseApplications(careerOpsPath string) []model.CareerApplication {
 		if apps[i].ReportPath == "" {
 			continue
 		}
-		fullReport := filepath.Join(careerOpsPath, apps[i].ReportPath)
+		fullReport := filepath.Join(careerOpsPath, "data", apps[i].ReportPath)
 		reportContent, err := os.ReadFile(fullReport)
 		if err != nil {
 			continue
@@ -505,7 +505,7 @@ func NormalizeStatus(raw string) string {
 
 // LoadReportSummary extracts key fields from a report file.
 func LoadReportSummary(careerOpsPath, reportPath string) (archetype, tldr, remote, comp string) {
-	fullPath := filepath.Join(careerOpsPath, reportPath)
+	fullPath := filepath.Join(careerOpsPath, "data", reportPath)
 	content, err := os.ReadFile(fullPath)
 	if err != nil {
 		return
