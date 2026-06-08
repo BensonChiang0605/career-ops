@@ -27,6 +27,17 @@
 
 - [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7923400 | Culture Amp | Scaled Customer Success Manager - 12 month FTC
 
+<!-- 2026-06-08 WebSearch scan (Level 3) — liveness unconfirmed (WebFetch 403, no Playwright) -->
+- [ ] https://job-boards.greenhouse.io/wgachidden/jobs/8328723002 | Who Gives A Crap | Senior Product Manager (AU)
+- [ ] https://job-boards.greenhouse.io/wgachidden/jobs/8328732002 | Who Gives A Crap | Senior Product Manager (AU) - Acquisition
+- [ ] https://apply.workable.com/eightcap/j/5188954B31 | Eightcap | Product Growth Manager
+- [ ] https://apply.workable.com/employment-hero/j/BC827F2258 | Employment Hero | Growth Product Manager
+- [ ] https://jobs.ashbyhq.com/airwallex/5488d78e-72fb-4c26-b743-af0fca4069c0 | Airwallex | Senior Product Manager, Corporate Site
+- [ ] https://www.coupang.jobs/en/jobs/5415217/head-of-growth-marketing/ | Coupang | Head of Growth Marketing (Taipei)
+- [ ] https://boards.greenhouse.io/coupang/jobs/6879207 | Coupang | Senior Product Manager - CX (Taipei)
+- [ ] https://boards.greenhouse.io/coupang/jobs/7139279 | Coupang | Senior Product Manager I - Retail Catalog (Taipei)
+- [ ] https://boards.greenhouse.io/coupang/jobs/7050712 | Coupang | Senior Product Manager - Fulfillment (Taipei)
+
 ## Procesadas
 
 - [x] #001 | https://jobs.lever.co/nitra/4139a944-1c9f-43c6-94ed-960f4df213ae | Nitra | Product Manager (Taipei) | 3.8/5 | PDF ❌
