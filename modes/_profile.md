@@ -109,6 +109,17 @@ Frame profile as **"Growth founder with finance discipline"** — most growth pe
 6. **One narrative per application.** Lead with the skill that matches the role.
 7. **"I'm already living this role"** is the strongest opening. Use it.
 
+## Scan Configuration
+
+**Environment:** Claude Code on the web (remote execution). ATS API hosts are blocked by the network allowlist (HTTP 403 on all Greenhouse/Ashby/Lever/Workable/Coupang hosts). Playwright is not available.
+
+**Scan behaviour override:**
+- Skip Level 0 (local parsers / `node scan.mjs` — ATS hosts blocked)
+- Skip Level 1 (Playwright — not available in this environment)
+- Skip Level 2 (ATS APIs / WebFetch — same host allowlist blocks these)
+- **Go directly to Level 3 (WebSearch queries)**
+- Liveness check: WebFetch also blocked → mark all Level 3 results as `unconfirmed` and verify during `/career-ops pipeline` evaluation instead
+
 ## Spelling Convention
 
 - **Australian English** for AU roles (optimise, organisation, colour)
