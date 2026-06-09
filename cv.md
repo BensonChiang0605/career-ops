@@ -40,9 +40,9 @@ Growth-oriented generalist with experience across product building, funnel optim
 - Designed and launched an AI-powered SaaS MVP (Flask, React, SQL) for the Taiwanese education market, managing the full product lifecycle from user research through to delivery.
 
 ### Co-Founder — Sweetee
-**Ongoing**
+**In development (not yet launched)**
 
-- Co-founded a couples relationship app, designing quiz card UI components, colour systems by category, and handoff specifications for React Native/Expo development.
+- Founding a couples relationship app, currently in development and not yet released on the App Store. Designing quiz card UI components, colour systems by category, and handoff specifications for React Native/Expo development.
 
 ---
 

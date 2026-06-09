@@ -27,16 +27,8 @@
 
 - [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7923400 | Culture Amp | Scaled Customer Success Manager - 12 month FTC
 
-<!-- 2026-06-08 WebSearch scan (Level 3) — liveness unconfirmed (WebFetch 403, no Playwright) -->
-- [ ] https://job-boards.greenhouse.io/wgachidden/jobs/8328723002 | Who Gives A Crap | Senior Product Manager (AU)
-- [ ] https://job-boards.greenhouse.io/wgachidden/jobs/8328732002 | Who Gives A Crap | Senior Product Manager (AU) - Acquisition
-- [ ] https://apply.workable.com/eightcap/j/5188954B31 | Eightcap | Product Growth Manager
-- [ ] https://apply.workable.com/employment-hero/j/BC827F2258 | Employment Hero | Growth Product Manager
-- [ ] https://jobs.ashbyhq.com/airwallex/5488d78e-72fb-4c26-b743-af0fca4069c0 | Airwallex | Senior Product Manager, Corporate Site
-- [ ] https://www.coupang.jobs/en/jobs/5415217/head-of-growth-marketing/ | Coupang | Head of Growth Marketing (Taipei)
-- [ ] https://boards.greenhouse.io/coupang/jobs/6879207 | Coupang | Senior Product Manager - CX (Taipei)
-- [ ] https://boards.greenhouse.io/coupang/jobs/7139279 | Coupang | Senior Product Manager I - Retail Catalog (Taipei)
-- [ ] https://boards.greenhouse.io/coupang/jobs/7050712 | Coupang | Senior Product Manager - Fulfillment (Taipei)
+<!-- 2026-06-08 WebSearch scan (Level 3) — processed 2026-06-09 via /career-ops pipeline. 8 of 9 dead/stale (WebSearch IDs unverified), 1 live but location-blocked. -->
+
 
 ## Procesadas
 
@@ -61,3 +53,12 @@
 - [!] #019 | https://job-boards.greenhouse.io/go1au/jobs/4684205005 | Go1 | Senior Product Manager - Content Intelligence | N/A | Discarded — posting dead (404); live equivalent: PM Search & Recommendations (gh_jid 4664488005)
 - [x] #020 | https://apply.workable.com/lyka/j/64F14E4168/ | Lyka | Senior Product Manager (Growth) | 4.3/5 | PDF ✅
 - [x] #021 | https://jobs.lever.co/aircall/6a3fe0a1-94e3-47ac-a945-b7a7183650dc | Aircall | Senior Product Manager - Growth for Small Businesses | 2.4/5 | PDF ❌ (SKIP — NY/US work rights)
+- [x] #022 | https://jobs.ashbyhq.com/airwallex/5488d78e-72fb-4c26-b743-af0fca4069c0 | Airwallex | Senior Product Manager, Corporate Site | 2.5/5 | PDF ❌ (SKIP — US/SF remote-US work-rights blocker + 6yr seniority gap)
+- [!] https://job-boards.greenhouse.io/wgachidden/jobs/8328723002 | Who Gives A Crap | Senior PM (AU) — DEAD: greenhouse 404 (board token `wgachidden` invalid; real token `whogivesacrap`, role no longer listed)
+- [!] https://job-boards.greenhouse.io/wgachidden/jobs/8328732002 | Who Gives A Crap | Senior PM (AU) Acquisition — DEAD: greenhouse 404 (role no longer listed on whogivesacrap board)
+- [!] https://apply.workable.com/eightcap/j/5188954B31 | Eightcap | Product Growth Manager — DEAD: expired (liveness checker: nav/footer only; Workable API "Job not found")
+- [!] https://apply.workable.com/employment-hero/j/BC827F2258 | Employment Hero | Growth Product Manager — DEAD: expired (liveness checker: "job no longer available")
+- [!] https://www.coupang.jobs/en/jobs/5415217/head-of-growth-marketing/ | Coupang | Head of Growth Marketing (Taipei) — DEAD: gh_jid 5415217 not in current Coupang board (only Seoul/Tokyo growth-marketing roles live)
+- [!] https://boards.greenhouse.io/coupang/jobs/6879207 | Coupang | Senior PM - CX (Taipei) — DEAD: greenhouse 404 (not in current board; only #009-#014 Taipei PM roles remain)
+- [!] https://boards.greenhouse.io/coupang/jobs/7139279 | Coupang | Senior PM - Retail Catalog (Taipei) — DEAD: greenhouse 404 (not in current board)
+- [!] https://boards.greenhouse.io/coupang/jobs/7050712 | Coupang | Senior PM - Fulfillment (Taipei) — DEAD: greenhouse 404 (not in current board)
