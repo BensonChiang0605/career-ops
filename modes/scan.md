@@ -18,20 +18,6 @@ Agent(
 )
 ```
 
-### Environment pre-check (before launching the subagent)
-
-**Before trying Levels 0–2, probe whether ATS hosts are reachable:**
-
-Run `node scan.mjs` and check for errors. If **all** companies return `HTTP 403: Host not in allowlist`, the environment's network policy blocks ATS API hosts (Greenhouse, Ashby, Lever, Workable, etc.). In that case:
-
-- **Skip Level 0** (`node scan.mjs` — blocked)
-- **Skip Level 1** (Playwright — also unavailable in remote/headless environments)
-- **Skip Level 2** (ATS API WebFetch — same hosts, same block)
-- **Go directly to Level 3** (WebSearch queries — always allowed)
-
-Include this instruction in the subagent prompt so it doesn't waste time on blocked levels:
-> "Levels 0–2 are blocked in this environment (HTTP 403 on all ATS hosts, no Playwright). Skip directly to Level 3 (WebSearch queries). For liveness checks: WebFetch is also blocked — mark all Level 3 results as `unconfirmed` and note this in pipeline.md. Liveness will be confirmed at evaluation time."
-
 ## Configuration
 
 Read `portals.yml`, which contains:
