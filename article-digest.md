@@ -58,14 +58,6 @@
 
 ---
 
-## Sweetee
-
-- Co-founded a couples relationship app with quiz card UI, colour systems, and React Native/Expo development
-- Structured quiz content library of **276 questions** across **36 themed quizzes**
-- Designed database schema and homepage mood-sharing feature
-
----
-
 ## Key Strengths (for framing)
 
 1. **Full-Funnel Growth Ownership** — runs the entire funnel solo (acquisition, activation, conversion, retention) with real money on the line
