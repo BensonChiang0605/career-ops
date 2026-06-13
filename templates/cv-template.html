@@ -41,14 +41,6 @@
     unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
   }
 
-  @font-face {
-    font-family: 'Cormorant Garamond';
-    src: url('./fonts/cormorant-garamond.woff2') format('woff2');
-    font-weight: 300 700;
-    font-style: normal;
-    font-display: swap;
-  }
-
   * {
     margin: 0;
     padding: 0;
@@ -83,12 +75,12 @@
   }
 
   .header h1 {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Space Grotesk', sans-serif;
     font-size: 28px;
-    font-weight: 600;
+    font-weight: 700;
     color: #1a1a2e;
     letter-spacing: -0.02em;
-    margin-bottom: 0;
+    margin-bottom: 6px;
     line-height: 1.1;
   }
 
@@ -99,32 +91,22 @@
     margin-bottom: 10px;
   }
 
-  .header-top {
+  .contact-row {
     display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    margin-bottom: 6px;
-  }
-
-  .header-contact {
+    flex-wrap: wrap;
+    gap: 8px 14px;
     font-family: 'DM Sans', sans-serif;
     font-size: 10.5px;
     line-height: 1.4;
     color: #555;
   }
 
-  .header-contact a {
+  .contact-row a {
     color: #555;
     text-decoration: none;
   }
 
-  .contact-line {
-    display: flex;
-    gap: 8px;
-    align-items: baseline;
-  }
-
-  .contact-line .separator {
+  .contact-row .separator {
     color: #ccc;
   }
 
@@ -186,7 +168,7 @@
     justify-content: space-between;
     align-items: baseline;
     gap: 12px;
-    margin-bottom: 6px;
+    margin-bottom: 4px;
   }
 
   .job-company {
@@ -206,6 +188,7 @@
     font-size: 11px;
     font-weight: 600;
     color: #333;
+    margin-bottom: 6px;
   }
 
   .job-location {
@@ -301,19 +284,25 @@
   }
 
   /* === CERTIFICATIONS === */
+  .cert-table {
+    display: table;
+    width: 100%;
+  }
+
   .cert-item {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(90px, max-content) 44px;
-    align-items: baseline;
-    gap: 12px;
-    margin-bottom: 6px;
+    display: table-row;
+  }
+
+  .cert-item > * {
+    display: table-cell;
+    vertical-align: baseline;
+    padding-bottom: 6px;
   }
 
   .cert-title {
     font-size: 10.5px;
     font-weight: 500;
     color: #333;
-    min-width: 0;
   }
 
   .cert-org {
@@ -326,6 +315,7 @@
     color: #777;
     white-space: nowrap;
     text-align: right;
+    width: 44px;
   }
 
   /* === SKILLS === */
@@ -367,6 +357,44 @@
     break-inside: avoid;
     page-break-inside: avoid;
   }
+
+  /* === RTL (Arabic) Support === */
+  html[lang="ar"] body {
+    direction: rtl;
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
+  }
+
+  html[lang="ar"] .header h1,
+  html[lang="ar"] .section-title,
+  html[lang="ar"] .job-company,
+  html[lang="ar"] .project-title,
+  html[lang="ar"] .competency-tag,
+  html[lang="ar"] .skill-category {
+    font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
+  }
+
+  html[lang="ar"] .header-gradient {
+    background: linear-gradient(to left, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+  }
+
+  html[lang="ar"] .job ul {
+    padding-right: 18px;
+    padding-left: 0;
+  }
+
+  html[lang="ar"] .project-badge {
+    margin-right: 6px;
+    margin-left: 0;
+  }
+
+  html[lang="ar"] .cert-year {
+    text-align: left;
+  }
+
+  html[lang="ar"] .cert-table {
+    direction: rtl;
+  }
 </style>
 </head>
 <body>
@@ -374,19 +402,19 @@
 
   <!-- HEADER -->
   <div class="header avoid-break">
-    <div class="header-top">
-      <h1>{{NAME}}</h1>
-      <div class="header-contact">
-        <div class="contact-line">
-          <a href="{{LINKEDIN_URL}}">{{LINKEDIN_DISPLAY}}</a>
-          <span class="separator">|</span>
-          <a href="{{PORTFOLIO_URL}}">{{PORTFOLIO_DISPLAY}}</a>
-          <span class="separator">|</span>
-          <span>{{EMAIL}}</span>
-        </div>
-      </div>
-    </div>
+    <h1>{{NAME}}</h1>
     <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>{{PHONE}}</span>
+      <span class="separator">|</span>
+      <span>{{EMAIL}}</span>
+      <span class="separator">|</span>
+      <a href="{{LINKEDIN_URL}}">{{LINKEDIN_DISPLAY}}</a>
+      <span class="separator">|</span>
+      <a href="{{PORTFOLIO_URL}}">{{PORTFOLIO_DISPLAY}}</a>
+      <span class="separator">|</span>
+      <span>{{LOCATION}}</span>
+    </div>
   </div>
 
   <!-- PROFESSIONAL SUMMARY -->
@@ -424,7 +452,7 @@
   <!-- CERTIFICATIONS -->
   <div class="section avoid-break">
     <div class="section-title">{{SECTION_CERTIFICATIONS}}</div>
-    {{CERTIFICATIONS}}
+    <div class="cert-table">{{CERTIFICATIONS}}</div>
   </div>
 
   <!-- SKILLS -->

@@ -35,7 +35,7 @@
 
 - **Fonts**: Space Grotesk (headings, 600-700) + DM Sans (body, 400-500)
 - **Fonts self-hosted**: `fonts/`
-- **Header**: name in Space Grotesk 28px bold (left) + contact details right-aligned single line (LinkedIn | Portfolio | email) + gradient line `linear-gradient(to right, hsl(187,74%,32%), hsl(270,70%,45%))` 2px underneath
+- **Header**: name in Space Grotesk 24px bold + gradient line `linear-gradient(to right, hsl(187,74%,32%), hsl(270,70%,45%))` 2px + contact row
 - **Section headers**: Space Grotesk 13px, uppercase, letter-spacing 0.05em, color cyan primary
 - **Body**: DM Sans 11px, line-height 1.5
 - **Company names**: accent purple color `hsl(270,70%,45%)`
@@ -44,7 +44,7 @@
 
 ## Section order (optimized "6-second recruiter scan")
 
-1. Header (name left, LinkedIn | Portfolio | email right on one line, gradient)
+1. Header (large name, gradient, contact, portfolio link)
 2. Professional Summary (3-4 lines, keyword-dense)
 3. Core Competencies (6-8 keyword phrases in flex-grid)
 4. Work Experience (reverse chronological)
@@ -70,17 +70,19 @@ Use the template in `cv-template.html`. Replace the `{{...}}` placeholders with 
 | `{{LANG}}` | `en` or `es` |
 | `{{PAGE_WIDTH}}` | `8.5in` (letter) or `210mm` (A4) |
 | `{{NAME}}` | (from profile.yml) |
+| `{{PHONE}}` | (from profile.yml — include with its separator only when `profile.yml` has a non-empty `phone` value; omit both `<span>` and `<span class="separator">` otherwise) |
 | `{{EMAIL}}` | (from profile.yml) |
 | `{{LINKEDIN_URL}}` | [from profile.yml] |
 | `{{LINKEDIN_DISPLAY}}` | [from profile.yml] |
 | `{{PORTFOLIO_URL}}` | [from profile.yml] (or /es depending on language) |
 | `{{PORTFOLIO_DISPLAY}}` | [from profile.yml] (or /es depending on language) |
+| `{{LOCATION}}` | [from profile.yml] |
 | `{{SECTION_SUMMARY}}` | Professional Summary |
 | `{{SUMMARY_TEXT}}` | Personalized summary with keywords |
 | `{{SECTION_COMPETENCIES}}` | Core Competencies |
 | `{{COMPETENCIES}}` | `<span class="competency-tag">keyword</span>` × 6-8 |
 | `{{SECTION_EXPERIENCE}}` | Work Experience |
-| `{{EXPERIENCE}}` | HTML for each job (see structure below) with reordered bullets |
+| `{{EXPERIENCE}}` | HTML for each job with reordered bullets |
 | `{{SECTION_PROJECTS}}` | Projects |
 | `{{PROJECTS}}` | HTML for top 3-4 projects |
 | `{{SECTION_EDUCATION}}` | Education |
@@ -89,22 +91,6 @@ Use the template in `cv-template.html`. Replace the `{{...}}` placeholders with 
 | `{{CERTIFICATIONS}}` | Certifications HTML |
 | `{{SECTION_SKILLS}}` | Skills |
 | `{{SKILLS}}` | Skills HTML |
-
-### Experience HTML structure
-
-**IMPORTANT: Company and role MUST be on ONE line** (`Company Name - Job Title`). Never use separate `<div>` elements or line breaks between them.
-
-```html
-<div class="job">
-  <div class="job-header">
-    <span><span class="job-company">Company Name</span> - <span class="job-role">Job Title</span></span>
-    <span class="job-period">Jan 2024 - Present</span>
-  </div>
-  <ul>
-    <li>Achievement bullet...</li>
-  </ul>
-</div>
-```
 
 ## Canva CV Generation (optional)
 
@@ -187,6 +173,30 @@ d. Report: PDF path, file size, Canva design URL (for manual tweaking)
 - If text elements can't be mapped → warn user, show what was found, ask for manual mapping
 - If `find_and_replace_text` finds no matches → try broader substring matching
 - Always provide the Canva design URL so the user can edit manually if auto-edit fails
+
+## Cover Letter Sub-flow
+
+After generating the CV PDF, offer to generate a cover letter:
+
+```text
+CV PDF generated: output/{path}
+
+Want a cover letter for this role too?
+- Say "yes" or "cover letter" to generate one now
+- Or run `/career-ops cover {slug}` later
+```
+
+If the user says yes, run the full cover letter flow from `modes/cover.md` in slug mode:
+1. Load the existing `## Cover Letter Draft` from the evaluation report as a starting point
+2. Run company research (Step 3 of cover.md)
+3. Present keyword list for confirmation (Step 4)
+4. Surface any gaps (Step 5)
+5. Ask the four prompts: why / problems / approach / tone (Step 6)
+6. Draft in chat, wait for approval (Steps 7-8)
+7. Generate cover letter PDF via `node generate-cover-letter.mjs` (Step 9)
+8. Report both PDF paths
+
+Do not auto-generate the cover letter PDF without going through the interactive steps above.
 
 ## Post-generation
 
