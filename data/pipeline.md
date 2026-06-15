@@ -2,32 +2,10 @@
 
 <!-- Not evaluated in the 2026-06-07 run: out-of-scope role types (Sales/SDR/AE/CS, marketing/copywriter). Evaluate later with /career-ops pipeline if desired. -->
 
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/c023c208-9a9e-4a83-be76-abd3514efd7b | Heidi Health | Account Executive (Commercial)
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/ebb59341-ef24-44b5-b3ef-c85b8cdbd1c5 | Heidi Health | Account Executive (Enterprise)
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/63441be2-6dab-479e-b772-f2a114d2c33e | Heidi Health | Sales Development Representative
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/c2d15424-b3a0-41eb-9c65-170c7d35ec71 | Heidi Health | Customer Success Manager (Enterprise)
-- [ ] https://jobs.ashbyhq.com/netwealth/6f829d0a-773f-4130-9fc5-6ab04346a875 | Netwealth | Senior Business Development Manager
-- [ ] https://jobs.ashbyhq.com/airwallex/7ceae593-2d91-4eaf-bdf0-9d9a833d0675 | Airwallex | Senior Account Executive
-- [ ] https://jobs.ashbyhq.com/airwallex/af575d67-58af-4140-98cc-71125144d3e5 | Airwallex | Inbound Sales Executive, SME & Growth
-- [ ] https://jobs.ashbyhq.com/airwallex/bc9c0595-e1ff-46ee-b57f-9eb41cbe7bab | Airwallex | Senior Account Executive, Enterprise
-- [ ] https://jobs.ashbyhq.com/airwallex/72b5e7b9-a02c-4cd6-b42d-75f0d707525a | Airwallex | Partnerships Development Representative
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7859957 | Culture Amp | Sales Development Representative, Allbound
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7981231 | Culture Amp | Scaled Customer Success Manager - 12 month FTC
-- [ ] https://jobs.lever.co/objective/a37f279a-a4ea-4e7b-8ac5-2427bba30384 | Objective | Manager, Customer Success
-- [ ] https://jobs.lever.co/Zeller/2c3b9e56-270e-44b7-959d-e3293de878c1 | Zeller | Account Executive (Mid-Market)
-- [ ] https://jobs.lever.co/Zeller/c8ac7f14-623a-4262-9e00-1cadd46d8ccb | Zeller | Account Executive (SMB)
-- [ ] https://jobs.lever.co/Zeller/8c733b5a-8297-4675-8010-8b82036eff44 | Zeller | Enterprise Business Development Manager
-- [ ] https://job-boards.greenhouse.io/roller/jobs/4999845007 | ROLLER | MM Account Executive (APAC)
-- [ ] https://job-boards.greenhouse.io/appier/jobs/6854145 | Appier | Digital Marketing (Campaign Management team)
-- [ ] https://job-boards.greenhouse.io/appier/jobs/7510874 | Appier | Sales Development Associate (Inside Sales, TW)
-- [ ] https://jobs.lever.co/pinkoi/8af15639-0d12-4100-825b-443f740de2b7 | Pinkoi | (Sr.) Digital Performance Marketing Specialist / （資深）數位廣告投手
-- [ ] https://jobs.lever.co/Gogolook/97d65262-aa87-45ba-8940-6fe4920c4796 | Gogolook | Senior Strategic Business Development Manager (Roo)
-- [ ] https://www.coupang.jobs/en/jobs/?gh_jid=7916663 | Coupang | Senior Manager, Sourcing & Product Strategy (Direct Factory)
-- [ ] https://jobs.smartrecruiters.com/Canva/postings/6000000001106315 | Canva | Senior Growth Copywriter
-
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7923400 | Culture Amp | Scaled Customer Success Manager - 12 month FTC
+_(empty — all processed 2026-06-15)_
 
 <!-- 2026-06-08 WebSearch scan (Level 3) — processed 2026-06-09 via /career-ops pipeline. 8 of 9 dead/stale (WebSearch IDs unverified), 1 live but location-blocked. -->
+<!-- 2026-06-15 /career-ops pipeline run: processed 23 pending Sales/CS/Marketing URLs via zero-token ATS APIs (no Playwright; reports marked unconfirmed/batch mode). 2 dead, 21 evaluated. Top fits: Pinkoi 4.6 and Appier Digital Marketing 4.4. -->
 
 
 ## Procesadas
@@ -62,3 +40,28 @@
 - [!] https://boards.greenhouse.io/coupang/jobs/6879207 | Coupang | Senior PM - CX (Taipei) — DEAD: greenhouse 404 (not in current board; only #009-#014 Taipei PM roles remain)
 - [!] https://boards.greenhouse.io/coupang/jobs/7139279 | Coupang | Senior PM - Retail Catalog (Taipei) — DEAD: greenhouse 404 (not in current board)
 - [!] https://boards.greenhouse.io/coupang/jobs/7050712 | Coupang | Senior PM - Fulfillment (Taipei) — DEAD: greenhouse 404 (not in current board)
+
+<!-- 2026-06-15 /career-ops pipeline batch (numbers reflect tracker after dedup against prior runs) -->
+- [x] #45 | https://jobs.ashbyhq.com/heidihealth.com.au/c023c208-9a9e-4a83-be76-abd3514efd7b | Heidi Health | Account Executive (Commercial) | 2.6/5 | PDF ❌
+- [x] #46 | https://jobs.ashbyhq.com/heidihealth.com.au/ebb59341-ef24-44b5-b3ef-c85b8cdbd1c5 | Heidi Health | Account Executive (Enterprise) | 2.3/5 | PDF ❌
+- [x] #47 | https://jobs.ashbyhq.com/heidihealth.com.au/63441be2-6dab-479e-b772-f2a114d2c33e | Heidi Health | Sales Development Representative | 2.4/5 | PDF ❌
+- [x] #48 | https://jobs.ashbyhq.com/heidihealth.com.au/c2d15424-b3a0-41eb-9c65-170c7d35ec71 | Heidi Health | Customer Success Manager (Enterprise) | 2.5/5 | PDF ❌
+- [x] #27 | https://jobs.ashbyhq.com/netwealth/6f829d0a-773f-4130-9fc5-6ab04346a875 | Netwealth | Senior Business Development Manager | 2.8/5 | PDF ❌ (re-eval, updated 2.4→2.8)
+- [x] #49 | https://jobs.ashbyhq.com/airwallex/7ceae593-2d91-4eaf-bdf0-9d9a833d0675 | Airwallex | Senior Account Executive | 2.4/5 | PDF ❌
+- [!] https://jobs.ashbyhq.com/airwallex/af575d67-58af-4140-98cc-71125144d3e5 | Airwallex | Inbound Sales Executive, SME & Growth — DEAD: id not present on Ashby airwallex board (posting removed)
+- [x] #50 | https://jobs.ashbyhq.com/airwallex/bc9c0595-e1ff-46ee-b57f-9eb41cbe7bab | Airwallex | Senior Account Executive, Enterprise | 1.8/5 | PDF ❌
+- [x] #31 | https://jobs.ashbyhq.com/airwallex/72b5e7b9-a02c-4cd6-b42d-75f0d707525a | Airwallex | Partnerships Development Representative | 3.4/5 | PDF ❌ (re-eval, updated 2.2→3.4)
+- [x] #32 | https://job-boards.greenhouse.io/cultureamp/jobs/7859957 | Culture Amp | Sales Development Representative, Allbound | 2.2/5 | PDF ❌
+- [x] #33 | https://job-boards.greenhouse.io/cultureamp/jobs/7981231 | Culture Amp | Scaled Customer Success Manager - 12 month FTC | 2.6/5 | PDF ❌
+- [!] https://jobs.lever.co/objective/a37f279a-a4ea-4e7b-8ac5-2427bba30384 | Objective | Manager, Customer Success — DEAD: Lever "Document not found" (posting removed)
+- [x] #35 | https://jobs.lever.co/Zeller/2c3b9e56-270e-44b7-959d-e3293de878c1 | Zeller | Account Executive (Mid-Market) | 2.6/5 | PDF ❌
+- [x] #36 | https://jobs.lever.co/Zeller/c8ac7f14-623a-4262-9e00-1cadd46d8ccb | Zeller | Account Executive (SMB) | 2.3/5 | PDF ❌
+- [x] #37 | https://jobs.lever.co/Zeller/8c733b5a-8297-4675-8010-8b82036eff44 | Zeller | Enterprise Business Development Manager | 2.4/5 | PDF ❌
+- [x] #38 | https://job-boards.greenhouse.io/roller/jobs/4999845007 | ROLLER | MM Account Executive (APAC) | 2.5/5 | PDF ❌
+- [x] #39 | https://job-boards.greenhouse.io/appier/jobs/6854145 | Appier | Digital Marketing (Campaign Management) | 4.4/5 | PDF ❌ (APPLY — strong primary fit)
+- [x] #40 | https://job-boards.greenhouse.io/appier/jobs/7510874 | Appier | Sales Development Associate (Inside Sales, TW) | 2.4/5 | PDF ❌
+- [x] #29 | https://jobs.lever.co/pinkoi/8af15639-0d12-4100-825b-443f740de2b7 | Pinkoi | (Sr.) Digital Performance Marketing Specialist | 4.6/5 | PDF ❌ (APPLY — top fit; re-eval 4.1→4.6)
+- [x] #42 | https://jobs.lever.co/Gogolook/97d65262-aa87-45ba-8940-6fe4920c4796 | Gogolook | Senior Strategic Business Development Manager (Roo) | 3.4/5 | PDF ❌
+- [x] #43 | https://www.coupang.jobs/en/jobs/?gh_jid=7916663 | Coupang | Senior Manager, Sourcing & Product Strategy (Direct Factory) | 3.0/5 | PDF ❌
+- [x] #44 | https://jobs.smartrecruiters.com/Canva/postings/6000000001106315 | Canva | Senior Growth Copywriter | 3.6/5 | PDF ❌
+- [x] dup→#33 | https://job-boards.greenhouse.io/cultureamp/jobs/7923400 | Culture Amp | Scaled Customer Success Manager - 12 month FTC — duplicate repost of #33 (same role); not double-counted
