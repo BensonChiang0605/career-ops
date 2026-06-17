@@ -29,10 +29,10 @@ interview-prep/*
 writing-samples/*
 !writing-samples/README.md
 
-# User config and customization (never auto-updated)
-config/profile.yml
-portals.yml
-modes/_profile.md
+# User config and customization (never auto-updated).
+# NOTE: profile.yml / portals.yml / _profile.md are intentionally TRACKED so
+# remote/scheduled routines pass the onboarding gate (see commit 1642056).
+# Do NOT re-ignore them — the v1.10.0 auto-update did and wiped this user's data.
 .update-dismissed
 .update-lock
 

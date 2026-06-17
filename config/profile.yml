@@ -1,0 +1,92 @@
+# Career-Ops Profile Configuration
+# This is the single source of truth for your personal data across all modes.
+
+candidate:
+  full_name: "Benson Chiang"
+  email: "benson0605@gmail.com"
+  phone: ""
+  location: "Taipei, Taiwan"
+  linkedin: "linkedin.com/in/benson-chiang"
+  portfolio_url: "https://substack.com/@bensonchiang"
+  substack: "https://substack.com/@bensonchiang"
+  github: "https://github.com/BensonChiang0605"
+  twitter: ""
+
+target_roles:
+  primary:
+    - "Growth Marketing Manager"
+    - "Product Manager"
+    - "Growth Associate"
+  archetypes:
+    - name: "Growth Marketing"
+      level: "Junior/Mid"
+      fit: "primary"
+    - name: "Product Manager"
+      level: "Associate/Mid"
+      fit: "primary"
+    - name: "Growth Product Manager"
+      level: "Associate/Mid"
+      fit: "primary"
+    - name: "BDR / Sales"
+      level: "Mid"
+      fit: "secondary"
+    - name: "Fintech Growth/Product"
+      level: "Junior/Mid"
+      fit: "secondary"
+
+narrative:
+  headline: "Growth-oriented founder with finance background and full-funnel ownership"
+  exit_story: "Left institutional finance to build my own product (Renmory — wedding trivia platform, 1,000+ users in 4 months). Now looking for a growth or product role where I can apply founder-level experimentation skills at real scale, with a team and proper infrastructure."
+  superpowers:
+    - "Full-funnel growth ownership (acquisition through retention, solo, with real money)"
+    - "Finance + growth combination (regulated environment + scrappy builder)"
+    - "Bilingual English/Mandarin (native in both, operates across AU/TW/SG/HK)"
+    - "Technical fluency (Python, JS, SQL — more technical than typical growth hire)"
+    - "SEO/AEO strategy that got cited in Google AI Summary"
+  proof_points:
+    - name: "Renmory"
+      url: ""
+      hero_metric: "1,000+ users in 4 months, doubled conversion rate 4%→8%"
+    - name: "Mercer Automation"
+      url: ""
+      hero_metric: "70% reduction in manual effort, 15+ hrs/month saved"
+    - name: "Grey Rhino"
+      url: ""
+      hero_metric: "AI-powered SaaS MVP for Taiwanese education market"
+
+compensation:
+  target_range: "A$90K-110K"
+  currency: "AUD"
+  minimum: "A$90K for Australia; NT$100,000/month for Taiwan"
+  location_flexibility: "Remote, Taiwan, or Melbourne are all acceptable. Currently in Taiwan and indifferent/comfortable about relocating to Melbourne for the right AU role."
+  floors:
+    australia: "A$90K"
+    taiwan: "NT$100,000/month"
+
+location:
+  country: "Taiwan"
+  city: "Taipei"
+  timezone: "GMT+8"
+  visa_status: "NZ/TW dual citizen. Full work rights in AU, NZ, Taiwan."
+  onsite_availability: "Can relocate to Melbourne and is indifferent/comfortable about doing so. Open to hybrid if in AU."
+
+deal_breakers:
+  hard_no:
+    - "Roles that are primarily AI Engineer, Software Engineer, Solutions Architect, DevRel, or Forward Deployed Engineer positions."
+    - "Roles that require daily on-site work outside Australia, New Zealand, or Taiwan."
+    - "AU roles below A$90K unless there is a specific strategic reason to consider them."
+    - "Taiwan roles below NT$100,000/month unless there is a specific strategic reason to consider them."
+  likely_no:
+    - "Roles where the main success metric is pure outbound quota rather than growth, product, or full-funnel ownership."
+    - "Companies with no clear product, growth motion, or measurable user/customer acquisition problem to solve."
+    - "Roles that are mostly implementation/support with little ownership over experiments, strategy, or outcomes."
+  strong_preferences:
+    - "Growth, product, product marketing, GTM, partnerships, or fintech roles where founder/operator proof points are valued."
+    - "Taiwan and Australian startups, especially Melbourne/Sydney/Taipei roles or remote roles explicitly compatible with those markets."
+    - "Teams where technical fluency, analytics, automation, and bilingual market experience create an edge."
+
+cv:
+  output_format: "html"
+
+# Auto-PDF threshold: generate PDF only for scores >= this value
+# auto_pdf_score_threshold: 3.5
