@@ -29,6 +29,15 @@
 
 <!-- 2026-06-08 WebSearch scan (Level 3) — processed 2026-06-09 via /career-ops pipeline. 8 of 9 dead/stale (WebSearch IDs unverified), 1 live but location-blocked. -->
 
+<!-- 2026-06-15 WebSearch scan (Level 3) — 6 new offers added -->
+
+- [ ] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager
+- [ ] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager
+- [ ] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | Product Manager - Display Advertising (Growth Marketing)
+- [ ] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | Product Manager - Search Advertising (Growth Marketing)
+- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence
+- [ ] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager
+
 
 ## Procesadas
 

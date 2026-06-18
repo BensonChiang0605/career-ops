@@ -30,9 +30,9 @@ writing-samples/*
 !writing-samples/README.md
 
 # User config and customization (never auto-updated)
-config/profile.yml
-portals.yml
-modes/_profile.md
+# config/profile.yml
+# portals.yml
+# modes/_profile.md
 .update-dismissed
 .update-lock
 
