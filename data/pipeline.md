@@ -29,14 +29,7 @@
 
 <!-- 2026-06-08 WebSearch scan (Level 3) — processed 2026-06-09 via /career-ops pipeline. 8 of 9 dead/stale (WebSearch IDs unverified), 1 live but location-blocked. -->
 
-<!-- 2026-06-15 WebSearch scan (Level 3) — 6 new offers added -->
-
-- [ ] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager
-- [ ] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager
-- [ ] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | Product Manager - Display Advertising (Growth Marketing)
-- [ ] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | Product Manager - Search Advertising (Growth Marketing)
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence
-- [ ] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager
+<!-- 2026-06-15 WebSearch scan (Level 3) — 6 new offers added; processed 2026-06-18 via /career-ops pipeline. ALL 6 DEAD (WebSearch IDs unverified, same failure mode as the 2026-06-08 scan). No new live in-scope equivalents: live Coupang Taipei PM roles already covered by #009-#014; Placements.io's only live PM role is NY-based (work-rights blocker). -->
 
 
 ## Procesadas
@@ -71,3 +64,11 @@
 - [!] https://boards.greenhouse.io/coupang/jobs/6879207 | Coupang | Senior PM - CX (Taipei) — DEAD: greenhouse 404 (not in current board; only #009-#014 Taipei PM roles remain)
 - [!] https://boards.greenhouse.io/coupang/jobs/7139279 | Coupang | Senior PM - Retail Catalog (Taipei) — DEAD: greenhouse 404 (not in current board)
 - [!] https://boards.greenhouse.io/coupang/jobs/7050712 | Coupang | Senior PM - Fulfillment (Taipei) — DEAD: greenhouse 404 (not in current board)
+
+<!-- 2026-06-18 /career-ops pipeline: 2026-06-15 batch verified via Greenhouse board APIs (Playwright browsers unavailable). All 6 dead. -->
+- [!] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager — DEAD: greenhouse board token `neuron` invalid (404); no valid token found (neuronmobility/neuron-mobility/rideneuron all 404)
+- [!] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager — DEAD: gh_jid 7515120 not in live coupang board
+- [!] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | Product Manager - Display Advertising (Growth Marketing) — DEAD: gh_jid 6659262 not in live coupang board (no growth-marketing PM equivalent live)
+- [!] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | Product Manager - Search Advertising (Growth Marketing) — DEAD: gh_jid 6703354 not in live coupang board (no growth-marketing PM equivalent live)
+- [!] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence — DEAD: gh_jid 7659603 not in live cultureamp board
+- [!] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager — DEAD: gh_jid 5048223007 not in live placementsio board; only live PM role is Senior AI PM (5025267007) in New York — work-rights blocker, not pursued
