@@ -48,6 +48,13 @@
 - [ ] https://jobs.ashbyhq.com/heidihealth.com.au/9ef84427-7820-4f93-afdc-75178511bd33 | Heidi Health | Product Manager, Intelligence
 - [ ] https://jobs.ashbyhq.com/heidihealth.com.au/7ac69cba-cc19-4407-ba02-b05ee55d1e30 | Heidi Health | Senior Growth Analyst
 
+<!-- 2026-06-18 WebSearch scan (Level 3) — 4 new offers added, 5 skipped_location (Sydney/generic AU) -->
+
+- [ ] https://jobs.lever.co/Zeller/c44b788d-2a75-4838-851d-954d1c295ba4 | Zeller | Growth Marketing Manager
+- [ ] https://jobs.lever.co/xero/d4442343-e7ad-43bb-8377-aea04f43dd9e | Xero | Growth Marketing Manager
+- [ ] https://job-boards.greenhouse.io/doordashaustralia/jobs/6785931 | DoorDash Australia | Senior Manager, Growth Marketing ANZ
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5164734008 | Cresta | APAC Marketing Manager
+
 ## Procesadas
 
 - [x] #001 | https://jobs.lever.co/nitra/4139a944-1c9f-43c6-94ed-960f4df213ae | Nitra | Product Manager (Taipei) | 3.8/5 | PDF ❌
