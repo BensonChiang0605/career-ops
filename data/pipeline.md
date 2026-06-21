@@ -1,43 +1,12 @@
 ## Pendientes
 
-<!-- Not evaluated in the 2026-06-07 run: out-of-scope role types (Sales/SDR/AE/CS, marketing/copywriter). Evaluate later with /career-ops pipeline if desired. -->
+<!-- Inbox empty after the 2026-06-21 /career-ops pipeline run. -->
 
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/c023c208-9a9e-4a83-be76-abd3514efd7b | Heidi Health | Account Executive (Commercial)
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/ebb59341-ef24-44b5-b3ef-c85b8cdbd1c5 | Heidi Health | Account Executive (Enterprise)
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/63441be2-6dab-479e-b772-f2a114d2c33e | Heidi Health | Sales Development Representative
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/c2d15424-b3a0-41eb-9c65-170c7d35ec71 | Heidi Health | Customer Success Manager (Enterprise)
-- [ ] https://jobs.ashbyhq.com/netwealth/6f829d0a-773f-4130-9fc5-6ab04346a875 | Netwealth | Senior Business Development Manager
-- [ ] https://jobs.ashbyhq.com/airwallex/7ceae593-2d91-4eaf-bdf0-9d9a833d0675 | Airwallex | Senior Account Executive
-- [ ] https://jobs.ashbyhq.com/airwallex/af575d67-58af-4140-98cc-71125144d3e5 | Airwallex | Inbound Sales Executive, SME & Growth
-- [ ] https://jobs.ashbyhq.com/airwallex/bc9c0595-e1ff-46ee-b57f-9eb41cbe7bab | Airwallex | Senior Account Executive, Enterprise
-- [ ] https://jobs.ashbyhq.com/airwallex/72b5e7b9-a02c-4cd6-b42d-75f0d707525a | Airwallex | Partnerships Development Representative
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7859957 | Culture Amp | Sales Development Representative, Allbound
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7981231 | Culture Amp | Scaled Customer Success Manager - 12 month FTC
-- [ ] https://jobs.lever.co/objective/a37f279a-a4ea-4e7b-8ac5-2427bba30384 | Objective | Manager, Customer Success
-- [ ] https://jobs.lever.co/Zeller/2c3b9e56-270e-44b7-959d-e3293de878c1 | Zeller | Account Executive (Mid-Market)
-- [ ] https://jobs.lever.co/Zeller/c8ac7f14-623a-4262-9e00-1cadd46d8ccb | Zeller | Account Executive (SMB)
-- [ ] https://jobs.lever.co/Zeller/8c733b5a-8297-4675-8010-8b82036eff44 | Zeller | Enterprise Business Development Manager
-- [ ] https://job-boards.greenhouse.io/roller/jobs/4999845007 | ROLLER | MM Account Executive (APAC)
-- [ ] https://job-boards.greenhouse.io/appier/jobs/6854145 | Appier | Digital Marketing (Campaign Management team)
-- [ ] https://job-boards.greenhouse.io/appier/jobs/7510874 | Appier | Sales Development Associate (Inside Sales, TW)
-- [ ] https://jobs.lever.co/pinkoi/8af15639-0d12-4100-825b-443f740de2b7 | Pinkoi | (Sr.) Digital Performance Marketing Specialist / （資深）數位廣告投手
-- [ ] https://jobs.lever.co/Gogolook/97d65262-aa87-45ba-8940-6fe4920c4796 | Gogolook | Senior Strategic Business Development Manager (Roo)
-- [ ] https://www.coupang.jobs/en/jobs/?gh_jid=7916663 | Coupang | Senior Manager, Sourcing & Product Strategy (Direct Factory)
-- [ ] https://jobs.smartrecruiters.com/Canva/postings/6000000001106315 | Canva | Senior Growth Copywriter
-
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7923400 | Culture Amp | Scaled Customer Success Manager - 12 month FTC
-
-<!-- 2026-06-08 WebSearch scan (Level 3) — processed 2026-06-09 via /career-ops pipeline. 8 of 9 dead/stale (WebSearch IDs unverified), 1 live but location-blocked. -->
-
-<!-- 2026-06-15 WebSearch scan (Level 3) — 6 new offers added -->
-
-- [ ] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager
-- [ ] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager
-- [ ] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | Product Manager - Display Advertising (Growth Marketing)
-- [ ] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | Product Manager - Search Advertising (Growth Marketing)
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence
-- [ ] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager
-
+<!-- 2026-06-21 run summary:
+     - Processed the 2026-06-15 in-scope growth/product batch (6 URLs): 4 dead (Coupang ×3 + Placements.io, all 404), 1 evaluated (Neuron #032 3.8/5 live), 1 SKIP (Culture Amp PMM #036 2.1/5 — US role).
+     - Pulled forward 2 growth-adjacent URLs from the deferred 06-07 batch: Appier Digital Marketing → #038 4.4/5 Apply (live, Taipei, top pick); Canva Senior Growth Copywriter → dead (404).
+     - Pinkoi Digital Performance Marketing = duplicate of tracker #29 (already Applied 4.1/5) — not re-evaluated.
+     - Remaining 06-07 batch are pure Sales/AE/SDR/CS/sourcing roles: triaged SKIP per _profile.md deal-breaker filter (pure quota sales is opportunistic-only; Benson lacks deep sales/BD depth). Not live-checked. Ask to override any individually if desired. -->
 
 ## Procesadas
 
@@ -63,6 +32,41 @@
 - [x] #020 | https://apply.workable.com/lyka/j/64F14E4168/ | Lyka | Senior Product Manager (Growth) | 4.3/5 | PDF ✅
 - [x] #021 | https://jobs.lever.co/aircall/6a3fe0a1-94e3-47ac-a945-b7a7183650dc | Aircall | Senior Product Manager - Growth for Small Businesses | 2.4/5 | PDF ❌ (SKIP — NY/US work rights)
 - [x] #022 | https://jobs.ashbyhq.com/airwallex/5488d78e-72fb-4c26-b743-af0fca4069c0 | Airwallex | Senior Product Manager, Corporate Site | 2.5/5 | PDF ❌ (SKIP — US/SF remote-US work-rights blocker + 6yr seniority gap)
+
+<!-- 2026-06-21 /career-ops pipeline run -->
+
+- [x] #032 | https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager | 3.8/5 | PDF ❌ (live; level may run senior — confirm scope)
+- [!] #033 | https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager — DEAD: Greenhouse API 404 + board redirect ?error=true to generic careers page
+- [!] #034 | https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | PM - Display Advertising (Growth Marketing) — DEAD: 404 (no JD retrievable)
+- [!] #035 | https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | PM - Search Advertising (Growth Marketing) — DEAD: 404; role absent from live Coupang Taipei index
+- [x] #036 | https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence | 2.1/5 | PDF ❌ (SKIP — US role, no US work rights, seniority/domain mismatch)
+- [!] #037 | https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager — DEAD: Greenhouse API 404; not on current board
+- [x] #038 | https://job-boards.greenhouse.io/appier/jobs/6854145 | Appier | Digital Marketing (Campaign Management team) | 4.4/5 | PDF ❌ (live; TOP PICK — Taipei growth marketing, verify comp vs NT$100k/mo floor)
+- [!] #039 | https://jobs.smartrecruiters.com/Canva/postings/6000000001106315 | Canva | Senior Growth Copywriter — DEAD: SmartRecruiters 404; posting ID not on Canva board
+
+<!-- 2026-06-21 triaged SKIP without full evaluation (out of scope per modes/_profile.md deal-breaker filter: pure quota sales / AE / SDR / CS / sourcing; Benson lacks deep sales-BD depth, these are opportunistic-bridge only). Not live-checked. Ask to override any of these individually. -->
+
+- [x] https://jobs.ashbyhq.com/heidihealth.com.au/c023c208-9a9e-4a83-be76-abd3514efd7b | Heidi Health | Account Executive (Commercial) — SKIP: pure quota AE, out of scope
+- [x] https://jobs.ashbyhq.com/heidihealth.com.au/ebb59341-ef24-44b5-b3ef-c85b8cdbd1c5 | Heidi Health | Account Executive (Enterprise) — SKIP: pure quota AE, out of scope
+- [x] https://jobs.ashbyhq.com/heidihealth.com.au/63441be2-6dab-479e-b772-f2a114d2c33e | Heidi Health | Sales Development Representative — SKIP: SDR, out of scope
+- [x] https://jobs.ashbyhq.com/heidihealth.com.au/c2d15424-b3a0-41eb-9c65-170c7d35ec71 | Heidi Health | Customer Success Manager (Enterprise) — SKIP: CS, out of scope
+- [x] https://jobs.ashbyhq.com/netwealth/6f829d0a-773f-4130-9fc5-6ab04346a875 | Netwealth | Senior Business Development Manager — SKIP: quota BD, out of scope
+- [x] https://jobs.ashbyhq.com/airwallex/7ceae593-2d91-4eaf-bdf0-9d9a833d0675 | Airwallex | Senior Account Executive — SKIP: pure quota AE, out of scope
+- [x] https://jobs.ashbyhq.com/airwallex/af575d67-58af-4140-98cc-71125144d3e5 | Airwallex | Inbound Sales Executive, SME & Growth — SKIP: inside sales, out of scope
+- [x] https://jobs.ashbyhq.com/airwallex/bc9c0595-e1ff-46ee-b57f-9eb41cbe7bab | Airwallex | Senior Account Executive, Enterprise — SKIP: pure quota AE, out of scope
+- [x] https://jobs.ashbyhq.com/airwallex/72b5e7b9-a02c-4cd6-b42d-75f0d707525a | Airwallex | Partnerships Development Representative — SKIP: junior BDR-style partnerships rep; opportunistic only (could revisit if strategic)
+- [x] https://job-boards.greenhouse.io/cultureamp/jobs/7859957 | Culture Amp | Sales Development Representative, Allbound — SKIP: SDR, out of scope
+- [x] https://job-boards.greenhouse.io/cultureamp/jobs/7981231 | Culture Amp | Scaled Customer Success Manager - 12 month FTC — SKIP: CS FTC, out of scope
+- [x] https://job-boards.greenhouse.io/cultureamp/jobs/7923400 | Culture Amp | Scaled Customer Success Manager - 12 month FTC — SKIP: CS FTC (duplicate listing), out of scope
+- [x] https://jobs.lever.co/objective/a37f279a-a4ea-4e7b-8ac5-2427bba30384 | Objective | Manager, Customer Success — SKIP: CS management, out of scope
+- [x] https://jobs.lever.co/Zeller/2c3b9e56-270e-44b7-959d-e3293de878c1 | Zeller | Account Executive (Mid-Market) — SKIP: pure quota AE, out of scope
+- [x] https://jobs.lever.co/Zeller/c8ac7f14-623a-4262-9e00-1cadd46d8ccb | Zeller | Account Executive (SMB) — SKIP: pure quota AE, out of scope
+- [x] https://jobs.lever.co/Zeller/8c733b5a-8297-4675-8010-8b82036eff44 | Zeller | Enterprise Business Development Manager — SKIP: quota BD, out of scope
+- [x] https://job-boards.greenhouse.io/roller/jobs/4999845007 | ROLLER | MM Account Executive (APAC) — SKIP: pure quota AE, out of scope
+- [x] https://job-boards.greenhouse.io/appier/jobs/7510874 | Appier | Sales Development Associate (Inside Sales, TW) — SKIP: SDR/inside sales, out of scope
+- [x] https://jobs.lever.co/pinkoi/8af15639-0d12-4100-825b-443f740de2b7 | Pinkoi | (Sr.) Digital Performance Marketing Specialist — DUPLICATE of tracker #29 (already Applied, 4.1/5); not re-evaluated
+- [x] https://jobs.lever.co/Gogolook/97d65262-aa87-45ba-8940-6fe4920c4796 | Gogolook | Senior Strategic Business Development Manager (Roo) — SKIP: quota-carrying strategic BD; opportunistic only (could revisit — TW company)
+- [x] https://www.coupang.jobs/en/jobs/?gh_jid=7916663 | Coupang | Senior Manager, Sourcing & Product Strategy (Direct Factory) — SKIP: senior sourcing/procurement, off-target
 - [!] https://job-boards.greenhouse.io/wgachidden/jobs/8328723002 | Who Gives A Crap | Senior PM (AU) — DEAD: greenhouse 404 (board token `wgachidden` invalid; real token `whogivesacrap`, role no longer listed)
 - [!] https://job-boards.greenhouse.io/wgachidden/jobs/8328732002 | Who Gives A Crap | Senior PM (AU) Acquisition — DEAD: greenhouse 404 (role no longer listed on whogivesacrap board)
 - [!] https://apply.workable.com/eightcap/j/5188954B31 | Eightcap | Product Growth Manager — DEAD: expired (liveness checker: nav/footer only; Workable API "Job not found")
@@ -71,3 +75,5 @@
 - [!] https://boards.greenhouse.io/coupang/jobs/6879207 | Coupang | Senior PM - CX (Taipei) — DEAD: greenhouse 404 (not in current board; only #009-#014 Taipei PM roles remain)
 - [!] https://boards.greenhouse.io/coupang/jobs/7139279 | Coupang | Senior PM - Retail Catalog (Taipei) — DEAD: greenhouse 404 (not in current board)
 - [!] https://boards.greenhouse.io/coupang/jobs/7050712 | Coupang | Senior PM - Fulfillment (Taipei) — DEAD: greenhouse 404 (not in current board)
+</content>
+</invoke>

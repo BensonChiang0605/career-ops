@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 32 | 2026-06-21 | Neuron Mobility | Global Growth Manager | 3.8/5 | Evaluated | ❌ | [032](../reports/032-neuron-2026-06-21.md) | Growth/GTM fit, Melbourne (AU core), strong post-merger company; level may run senior — confirm scope before applying |
+| 36 | 2026-06-21 | Culture Amp | Senior Product Marketing Manager, Market Intelligence | 2.1/5 | SKIP | ❌ | [036](../reports/036-cultureamp-2026-06-21.md) | US-based senior PMM (5+ yrs B2B SaaS competitive intelligence); no US work rights, wrong seniority/domain — outside profile |
+| 38 | 2026-06-21 | Appier | Digital Marketing (Campaign Management team) | 4.4/5 | Evaluated | ❌ | [038](../reports/038-appier-digital-marketing-2026-06-21.md) | Strong Growth Marketing fit in home market (Taipei); soft gaps on years/RTB/certs, comp to verify |
 | 31 | 2026-06-12 | EY | AI Engineer, AI GTM Engine Room | 2.2/5 | Evaluated | ❌ | [031](../reports/031-ey-2026-06-12.md) | Hard no per profile: explicit AI Engineer / enterprise AI delivery role; technically interesting, but outside growth/product target lane. |
 | 30 | 2026-06-11 | KPMG | AI Solution Designer | 2.3/5 | Evaluated | ❌ | [030](../reports/030-kpmg-2026-06-11.md) | Hard no per profile: Solutions Architect/AI Engineer-style enterprise implementation role; strong comp/location but poor target alignment. |
 | 29 | 2026-06-11 | Pinkoi | (Sr.) Digital Performance Marketing Specialist / （資深）數位廣告投手 | 4.1/5 | Applied | ✅ | [029](../reports/029-pinkoi-2026-06-11.md) | Re-eval 2026-06-11 (3.5→4.1). Strong Taipei growth-marketing fit: paid channels, funnel analytics, A/B testing, and ecommerce new-buyer growth; main risk is undisclosed comp vs NT$100k/month floor. |
