@@ -48,6 +48,18 @@
 - [ ] https://jobs.ashbyhq.com/airwallex/8dde93d5-14a0-4b6c-8b66-1f83bc0f0057 | Airwallex | Account Manager, SME & Growth
 - [ ] https://jobs.ashbyhq.com/airwallex/54a449ac-0018-45a9-91fe-19d1a8b9ef30 | Airwallex | GTM Partnerships Manager, AU, SME & Growth
 
+<!-- 2026-06-21 WebSearch scan (Level 3) — 9 new offers (unverified, Playwright unavailable) -->
+
+- [ ] https://jobs.ashbyhq.com/The-Flex/2f29abe2-63cc-461f-b278-ea9e22618589 | The Flex | Growth Marketing Manager
+- [ ] https://jobs.lever.co/linktree/ff697b0a-75ee-4b61-a900-1c6536eee1fd | Linktree | Senior Product Marketing Manager (Marketplace)
+- [ ] https://jobs.lever.co/MrYum/c2261fb5-611f-46b3-8a25-45b7b450aab7 | Mr Yum | Venue Partner Marketing Manager
+- [ ] https://boards.greenhouse.io/casetify/jobs/5046672004 | CASETiFY | Assistant Partnerships Manager, Taiwan
+- [ ] https://boards.greenhouse.io/ruggable/jobs/5887866003 | Ruggable | Performance Marketing Manager (Australia)
+- [ ] https://boards.greenhouse.io/doordashaustralia/jobs/6563460 | DoorDash Australia | Senior Manager, Partner Marketing
+- [ ] https://apply.workable.com/betfair/j/9FEBCBB518 | Betfair | Product Manager
+- [ ] https://job-boards.greenhouse.io/leagueinc/jobs/5738843004 | League Inc. | Senior Product Manager (Australia)
+- [ ] https://job-boards.greenhouse.io/doordashaustralia/jobs/7774260 | DoorDash Australia | Senior Manager, Growth & Market Performance
+
 ## Procesadas
 
 - [x] #001 | https://jobs.lever.co/nitra/4139a944-1c9f-43c6-94ed-960f4df213ae | Nitra | Product Manager (Taipei) | 3.8/5 | PDF ❌
