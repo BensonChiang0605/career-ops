@@ -39,6 +39,15 @@
 - [ ] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager
 
 
+- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/656f84a5-fa57-4394-826c-e72bc3a9ef57 | Heidi Health | Product Manager, Apps
+- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/9ef84427-7820-4f93-afdc-75178511bd33 | Heidi Health | Product Manager, Intelligence
+- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/7ac69cba-cc19-4407-ba02-b05ee55d1e30 | Heidi Health | Senior Growth Analyst
+- [ ] https://jobs.lever.co/myob-2/dccb3db8-4734-408a-a613-56cf2785f501 | MYOB | Senior Product Marketing Manager - Growth & Monestisation
+- [ ] https://jobs.ashbyhq.com/airwallex/b64077ca-eed1-4d03-8a5e-1fc5278ef38b | Airwallex | Sales Development Representative, SME & Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/00a7bbce-af16-4d4d-b36b-50034b5d9038 | Airwallex | Senior Manager, Financial Partnerships APAC
+- [ ] https://jobs.ashbyhq.com/airwallex/8dde93d5-14a0-4b6c-8b66-1f83bc0f0057 | Airwallex | Account Manager, SME & Growth
+- [ ] https://jobs.ashbyhq.com/airwallex/54a449ac-0018-45a9-91fe-19d1a8b9ef30 | Airwallex | GTM Partnerships Manager, AU, SME & Growth
+
 ## Procesadas
 
 - [x] #001 | https://jobs.lever.co/nitra/4139a944-1c9f-43c6-94ed-960f4df213ae | Nitra | Product Manager (Taipei) | 3.8/5 | PDF ❌
