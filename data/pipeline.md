@@ -30,13 +30,14 @@
 <!-- 2026-06-08 WebSearch scan (Level 3) — processed 2026-06-09 via /career-ops pipeline. 8 of 9 dead/stale (WebSearch IDs unverified), 1 live but location-blocked. -->
 
 <!-- 2026-06-15 WebSearch scan (Level 3) — 6 new offers added -->
+<!-- 2026-06-22 processed via /career-ops pipeline: 5 of 6 confirmed DEAD via Greenhouse boards-api (IDs absent from live boards), 1 unverifiable (Greenhouse 403-blocks this environment). 0 live in-scope offers. Same WebSearch-ID-rot pattern as the 2026-06-08 batch. -->
 
-- [ ] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager
-- [ ] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager
-- [ ] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | Product Manager - Display Advertising (Growth Marketing)
-- [ ] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | Product Manager - Search Advertising (Growth Marketing)
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence
-- [ ] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager
+- [!] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager — UNVERIFIED: Greenhouse returns 403 for all neuron URLs from this environment (anti-bot) and boards-api `neuron` token lists 0 jobs. Cannot confirm live/dead; likely stale WebSearch ID. Manual check needed.
+- [!] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager — DEAD: ID absent from live coupang board (637 jobs via boards-api); generic title likely a hallucinated WebSearch ID.
+- [!] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | Product Manager - Display Advertising (Growth Marketing) — DEAD: 404 on coupang.jobs + ID absent from live coupang greenhouse board.
+- [!] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | Product Manager - Search Advertising (Growth Marketing) — DEAD: 404 on coupang.jobs + ID absent from live coupang greenhouse board. (Live Taipei equivalents now are Business-Marketing, not PM: gh 7757455 / 7840184 — different role family.)
+- [!] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence — DEAD: ID absent from live cultureamp board (13 jobs); no PMM/Market-Intelligence role currently listed.
+- [!] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager — DEAD: ID absent from live placementsio board (5 jobs; only Eng + Solutions Consultant roles live).
 
 
 ## Procesadas
