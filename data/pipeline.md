@@ -31,22 +31,16 @@
 
 <!-- 2026-06-15 WebSearch scan (Level 3) — 6 new offers added -->
 
-- [ ] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager
-- [ ] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager
-- [ ] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | Product Manager - Display Advertising (Growth Marketing)
-- [ ] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | Product Manager - Search Advertising (Growth Marketing)
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence
-- [ ] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager
+<!-- 2026-06-15 PM/Growth block — processed 2026-06-23 via /career-ops pipeline. See Procesadas below. -->
 
 
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/656f84a5-fa57-4394-826c-e72bc3a9ef57 | Heidi Health | Product Manager, Apps
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/9ef84427-7820-4f93-afdc-75178511bd33 | Heidi Health | Product Manager, Intelligence
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/7ac69cba-cc19-4407-ba02-b05ee55d1e30 | Heidi Health | Senior Growth Analyst
-- [ ] https://jobs.lever.co/myob-2/dccb3db8-4734-408a-a613-56cf2785f501 | MYOB | Senior Product Marketing Manager - Growth & Monestisation
+
+<!-- Heidi Health (PM Apps/Intelligence, Growth Analyst) + MYOB PMM — processed 2026-06-23, see Procesadas. -->
+
+<!-- Airwallex SDR / Financial Partnerships APAC / Account Manager: left pending as sales-adjacent fallback (per _profile.md, only pursue if strategic). GTM Partnerships Manager UUID was processed 2026-06-23 (dead). -->
 - [ ] https://jobs.ashbyhq.com/airwallex/b64077ca-eed1-4d03-8a5e-1fc5278ef38b | Airwallex | Sales Development Representative, SME & Growth
 - [ ] https://jobs.ashbyhq.com/airwallex/00a7bbce-af16-4d4d-b36b-50034b5d9038 | Airwallex | Senior Manager, Financial Partnerships APAC
 - [ ] https://jobs.ashbyhq.com/airwallex/8dde93d5-14a0-4b6c-8b66-1f83bc0f0057 | Airwallex | Account Manager, SME & Growth
-- [ ] https://jobs.ashbyhq.com/airwallex/54a449ac-0018-45a9-91fe-19d1a8b9ef30 | Airwallex | GTM Partnerships Manager, AU, SME & Growth
 
 ## Procesadas
 
@@ -80,3 +74,17 @@
 - [!] https://boards.greenhouse.io/coupang/jobs/6879207 | Coupang | Senior PM - CX (Taipei) — DEAD: greenhouse 404 (not in current board; only #009-#014 Taipei PM roles remain)
 - [!] https://boards.greenhouse.io/coupang/jobs/7139279 | Coupang | Senior PM - Retail Catalog (Taipei) — DEAD: greenhouse 404 (not in current board)
 - [!] https://boards.greenhouse.io/coupang/jobs/7050712 | Coupang | Senior PM - Fulfillment (Taipei) — DEAD: greenhouse 404 (not in current board)
+
+<!-- 2026-06-23 /career-ops pipeline run — 11 in-scope PM/Growth URLs processed (Playwright unavailable → WebFetch batch mode). 6 live evaluated, 5 dead links. -->
+
+- [x] #33 | https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | Product Manager - Display Advertising (Growth Marketing) | 4.4/5 | PDF ❌
+- [x] #34 | https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | Product Manager - Search Advertising (Growth Marketing) | 4.3/5 | PDF ❌
+- [x] #39 | https://jobs.ashbyhq.com/heidihealth.com.au/7ac69cba-cc19-4407-ba02-b05ee55d1e30 | Heidi Health | Senior Growth Analyst | 4.4/5 | PDF ❌
+- [x] #38 | https://jobs.ashbyhq.com/heidihealth.com.au/9ef84427-7820-4f93-afdc-75178511bd33 | Heidi Health | Product Manager, Intelligence | 3.6/5 | PDF ❌
+- [x] #40 | https://jobs.lever.co/myob-2/dccb3db8-4734-408a-a613-56cf2785f501 | MYOB | Senior Product Marketing Manager - Growth & Monetisation | 3.4/5 | PDF ❌
+- [x] #35 | https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence | 2.4/5 | PDF ❌
+- [!] #32 | https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager | DEAD: GH board 404; Neuron merged into Beam Sept 2025, board retired
+- [!] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager | DEAD: greenhouse 404 (dup of existing Coupang entry, skipped in tracker)
+- [!] #36 | https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager | DEAD: not on live board; US-timezone anyway (work-rights blocker)
+- [!] #37 | https://jobs.ashbyhq.com/heidihealth.com.au/656f84a5-fa57-4394-826c-e72bc3a9ef57 | Heidi Health | Product Manager, Apps | DEAD: UUID delisted from Ashby API
+- [!] #41 | https://jobs.ashbyhq.com/airwallex/54a449ac-0018-45a9-91fe-19d1a8b9ef30 | Airwallex | GTM Partnerships Manager, AU, SME & Growth | DEAD: UUID delisted; live equivalent at careers.airwallex.com (881f64b6) — re-add to evaluate
