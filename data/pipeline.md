@@ -48,6 +48,8 @@
 - [ ] https://jobs.ashbyhq.com/airwallex/8dde93d5-14a0-4b6c-8b66-1f83bc0f0057 | Airwallex | Account Manager, SME & Growth
 - [ ] https://jobs.ashbyhq.com/airwallex/54a449ac-0018-45a9-91fe-19d1a8b9ef30 | Airwallex | GTM Partnerships Manager, AU, SME & Growth
 
+- [ ] https://jobs.lever.co/jobscan-2/7d40b350-3294-43c8-abac-6432e727b799 | Jobscan | Senior Performance Marketing Manager - Taiwan
+
 ## Procesadas
 
 - [x] #001 | https://jobs.lever.co/nitra/4139a944-1c9f-43c6-94ed-960f4df213ae | Nitra | Product Manager (Taipei) | 3.8/5 | PDF ❌
