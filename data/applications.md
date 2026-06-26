@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 32 | 2026-06-26 | Heidi Health | Product Manager, Apps | 3.8/5 | Evaluated | ❌ | [032](../reports/032-heidi-apps-2026-06-26.md) | Mobile/platform PM at hot AU AI-health scaleup; builder/AI-native screen fits founder profile, monetisation/onboarding is the wedge; gap=native iOS/Android craft |
+| 33 | 2026-06-26 | Heidi Health | Product Manager, Intelligence | 3.9/5 | Evaluated | ❌ | [033](../reports/033-heidi-intelligence-2026-06-26.md) | Data/AI-product PM; strongest Heidi PM fit (technical+analytics+AI-builder core); gap=formal data-platform/metrics-layer experience |
+| 34 | 2026-06-26 | Heidi Health | Senior Growth Analyst | 4.0/5 | Evaluated | ❌ | [034](../reports/034-heidi-growthanalyst-2026-06-26.md) | Standout: finance+growth+SQL intersection = role center of gravity; IC role eases seniority stretch; gap=dbt/Databricks/Amplitude tools |
+| 35 | 2026-06-26 | MYOB | Senior Product Marketing Manager, Monetisation | 3.6/5 | Evaluated | ❌ | [035](../reports/035-myob-2026-06-26.md) | Finance+pricing differentiator strong, but Senior exec-facing scope at large org is a real seniority stretch; realistic path=mid-level seat |
 | 31 | 2026-06-12 | EY | AI Engineer, AI GTM Engine Room | 2.2/5 | Evaluated | ❌ | [031](../reports/031-ey-2026-06-12.md) | Hard no per profile: explicit AI Engineer / enterprise AI delivery role; technically interesting, but outside growth/product target lane. |
 | 30 | 2026-06-11 | KPMG | AI Solution Designer | 2.3/5 | Evaluated | ❌ | [030](../reports/030-kpmg-2026-06-11.md) | Hard no per profile: Solutions Architect/AI Engineer-style enterprise implementation role; strong comp/location but poor target alignment. |
 | 29 | 2026-06-11 | Pinkoi | (Sr.) Digital Performance Marketing Specialist / （資深）數位廣告投手 | 4.1/5 | Applied | ✅ | [029](../reports/029-pinkoi-2026-06-11.md) | Re-eval 2026-06-11 (3.5→4.1). Strong Taipei growth-marketing fit: paid channels, funnel analytics, A/B testing, and ecommerce new-buyer growth; main risk is undisclosed comp vs NT$100k/month floor. |

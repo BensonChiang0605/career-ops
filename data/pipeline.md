@@ -31,18 +31,15 @@
 
 <!-- 2026-06-15 WebSearch scan (Level 3) — 6 new offers added -->
 
-- [ ] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager
-- [ ] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager
-- [ ] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | Product Manager - Display Advertising (Growth Marketing)
-- [ ] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | Product Manager - Search Advertising (Growth Marketing)
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence
-- [ ] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager
+<!-- 2026-06-26 /career-ops pipeline run: 4 in-scope PM/Growth roles evaluated (#032-035); 6 postings dead (verified via ATS JSON APIs). -->
+- [!] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager — DEAD: greenhouse board token `neuron` 404 (tried neuron/neuronmobility/neuron-mobility, all 404; role gone or migrated ATS)
+- [!] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager — DEAD: job 7515120 not in current Coupang greenhouse board (643 live jobs checked)
+- [!] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | PM Display Advertising (Growth Marketing) — DEAD: gh_jid 6659262 not in current board
+- [!] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | PM Search Advertising (Growth Marketing) — DEAD: gh_jid 6703354 not in current board
+- [!] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior PMM, Market Intelligence — DEAD: job 7659603 not in current board (12 live jobs; no in-scope PM/Growth/PMM replacement)
+- [!] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical PM — DEAD: job 5048223007 not in current board (5 live jobs; only eng/QA/solutions-consultant, none in-scope)
 
 
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/656f84a5-fa57-4394-826c-e72bc3a9ef57 | Heidi Health | Product Manager, Apps
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/9ef84427-7820-4f93-afdc-75178511bd33 | Heidi Health | Product Manager, Intelligence
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/7ac69cba-cc19-4407-ba02-b05ee55d1e30 | Heidi Health | Senior Growth Analyst
-- [ ] https://jobs.lever.co/myob-2/dccb3db8-4734-408a-a613-56cf2785f501 | MYOB | Senior Product Marketing Manager - Growth & Monestisation
 - [ ] https://jobs.ashbyhq.com/airwallex/b64077ca-eed1-4d03-8a5e-1fc5278ef38b | Airwallex | Sales Development Representative, SME & Growth
 - [ ] https://jobs.ashbyhq.com/airwallex/00a7bbce-af16-4d4d-b36b-50034b5d9038 | Airwallex | Senior Manager, Financial Partnerships APAC
 - [ ] https://jobs.ashbyhq.com/airwallex/8dde93d5-14a0-4b6c-8b66-1f83bc0f0057 | Airwallex | Account Manager, SME & Growth
@@ -50,6 +47,10 @@
 
 ## Procesadas
 
+- [x] #032 | https://jobs.ashbyhq.com/heidihealth.com.au/656f84a5-fa57-4394-826c-e72bc3a9ef57 | Heidi Health | Product Manager, Apps | 3.8/5 | PDF ❌
+- [x] #033 | https://jobs.ashbyhq.com/heidihealth.com.au/9ef84427-7820-4f93-afdc-75178511bd33 | Heidi Health | Product Manager, Intelligence | 3.9/5 | PDF ❌
+- [x] #034 | https://jobs.ashbyhq.com/heidihealth.com.au/7ac69cba-cc19-4407-ba02-b05ee55d1e30 | Heidi Health | Senior Growth Analyst | 4.0/5 | PDF ❌
+- [x] #035 | https://jobs.lever.co/myob-2/dccb3db8-4734-408a-a613-56cf2785f501 | MYOB | Senior Product Marketing Manager - Monetisation | 3.6/5 | PDF ❌
 - [x] #001 | https://jobs.lever.co/nitra/4139a944-1c9f-43c6-94ed-960f4df213ae | Nitra | Product Manager (Taipei) | 3.8/5 | PDF ❌
 - [x] #002 | https://jobs.ashbyhq.com/netwealth/3a855636-3ccb-41ad-821c-abdff58fe2b9 | Netwealth | Product Manager | 3.9/5 | PDF ❌
 - [x] #003 | https://jobs.ashbyhq.com/netwealth/f2133456-4314-427a-b3b3-88922cc91eea | Netwealth | Senior Product Manager | 3.0/5 | PDF ❌
