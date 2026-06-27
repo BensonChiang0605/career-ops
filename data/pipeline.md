@@ -1,6 +1,7 @@
 ## Pendientes
 
-<!-- Not evaluated in the 2026-06-07 run: out-of-scope role types (Sales/SDR/AE/CS, marketing/copywriter). Evaluate later with /career-ops pipeline if desired. -->
+<!-- Not evaluated: out-of-scope role types (pure Sales/SDR/AE/BDR/CS, copywriter, senior BD/partnerships). These are deal-breakers or opportunistic-fallback-only per config/profile.yml — left deferred, not actioned. Evaluate later with /career-ops pipeline only if targeting changes. -->
+<!-- 2026-06-27 /career-ops pipeline run: evaluated every live in-scope Growth/Product role (#032-037). Seven dead in-scope links (404) were verified via official board APIs and moved to Procesadas as [!]. The roles below are the remaining out-of-scope sales/CS/BD backlog. -->
 
 - [ ] https://jobs.ashbyhq.com/heidihealth.com.au/c023c208-9a9e-4a83-be76-abd3514efd7b | Heidi Health | Account Executive (Commercial)
 - [ ] https://jobs.ashbyhq.com/heidihealth.com.au/ebb59341-ef24-44b5-b3ef-c85b8cdbd1c5 | Heidi Health | Account Executive (Enterprise)
@@ -18,31 +19,10 @@
 - [ ] https://jobs.lever.co/Zeller/c8ac7f14-623a-4262-9e00-1cadd46d8ccb | Zeller | Account Executive (SMB)
 - [ ] https://jobs.lever.co/Zeller/8c733b5a-8297-4675-8010-8b82036eff44 | Zeller | Enterprise Business Development Manager
 - [ ] https://job-boards.greenhouse.io/roller/jobs/4999845007 | ROLLER | MM Account Executive (APAC)
-- [ ] https://job-boards.greenhouse.io/appier/jobs/6854145 | Appier | Digital Marketing (Campaign Management team)
 - [ ] https://job-boards.greenhouse.io/appier/jobs/7510874 | Appier | Sales Development Associate (Inside Sales, TW)
-- [ ] https://jobs.lever.co/pinkoi/8af15639-0d12-4100-825b-443f740de2b7 | Pinkoi | (Sr.) Digital Performance Marketing Specialist / （資深）數位廣告投手
 - [ ] https://jobs.lever.co/Gogolook/97d65262-aa87-45ba-8940-6fe4920c4796 | Gogolook | Senior Strategic Business Development Manager (Roo)
-- [ ] https://www.coupang.jobs/en/jobs/?gh_jid=7916663 | Coupang | Senior Manager, Sourcing & Product Strategy (Direct Factory)
 - [ ] https://jobs.smartrecruiters.com/Canva/postings/6000000001106315 | Canva | Senior Growth Copywriter
-
 - [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7923400 | Culture Amp | Scaled Customer Success Manager - 12 month FTC
-
-<!-- 2026-06-08 WebSearch scan (Level 3) — processed 2026-06-09 via /career-ops pipeline. 8 of 9 dead/stale (WebSearch IDs unverified), 1 live but location-blocked. -->
-
-<!-- 2026-06-15 WebSearch scan (Level 3) — 6 new offers added -->
-
-- [ ] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager
-- [ ] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager
-- [ ] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | Product Manager - Display Advertising (Growth Marketing)
-- [ ] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | Product Manager - Search Advertising (Growth Marketing)
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence
-- [ ] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager
-
-
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/656f84a5-fa57-4394-826c-e72bc3a9ef57 | Heidi Health | Product Manager, Apps
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/9ef84427-7820-4f93-afdc-75178511bd33 | Heidi Health | Product Manager, Intelligence
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/7ac69cba-cc19-4407-ba02-b05ee55d1e30 | Heidi Health | Senior Growth Analyst
-- [ ] https://jobs.lever.co/myob-2/dccb3db8-4734-408a-a613-56cf2785f501 | MYOB | Senior Product Marketing Manager - Growth & Monestisation
 - [ ] https://jobs.ashbyhq.com/airwallex/b64077ca-eed1-4d03-8a5e-1fc5278ef38b | Airwallex | Sales Development Representative, SME & Growth
 - [ ] https://jobs.ashbyhq.com/airwallex/00a7bbce-af16-4d4d-b36b-50034b5d9038 | Airwallex | Senior Manager, Financial Partnerships APAC
 - [ ] https://jobs.ashbyhq.com/airwallex/8dde93d5-14a0-4b6c-8b66-1f83bc0f0057 | Airwallex | Account Manager, SME & Growth
@@ -80,3 +60,19 @@
 - [!] https://boards.greenhouse.io/coupang/jobs/6879207 | Coupang | Senior PM - CX (Taipei) — DEAD: greenhouse 404 (not in current board; only #009-#014 Taipei PM roles remain)
 - [!] https://boards.greenhouse.io/coupang/jobs/7139279 | Coupang | Senior PM - Retail Catalog (Taipei) — DEAD: greenhouse 404 (not in current board)
 - [!] https://boards.greenhouse.io/coupang/jobs/7050712 | Coupang | Senior PM - Fulfillment (Taipei) — DEAD: greenhouse 404 (not in current board)
+
+<!-- 2026-06-27 /career-ops pipeline run — in-scope Growth/Product roles evaluated (#032-037) + dead in-scope links verified via official board APIs -->
+
+- [x] #032 | https://jobs.ashbyhq.com/heidihealth.com.au/656f84a5-fa57-4394-826c-e72bc3a9ef57 | Heidi Health | Product Manager, Apps | 3.2/5 | PDF ❌
+- [x] #033 | https://jobs.ashbyhq.com/heidihealth.com.au/9ef84427-7820-4f93-afdc-75178511bd33 | Heidi Health | Product Manager, Intelligence | 3.6/5 | PDF ❌
+- [x] #034 | https://jobs.ashbyhq.com/heidihealth.com.au/7ac69cba-cc19-4407-ba02-b05ee55d1e30 | Heidi Health | Senior Growth Analyst | 4.1/5 | PDF ❌
+- [x] #035 | https://jobs.lever.co/myob-2/dccb3db8-4734-408a-a613-56cf2785f501 | MYOB | Senior Product Marketing Manager - Monetisation | 3.9/5 | PDF ❌
+- [x] #036 | https://job-boards.greenhouse.io/appier/jobs/6854145 | Appier | Digital Marketing (Campaign Management) | 4.2/5 | PDF ❌
+- [x] #037 | https://www.coupang.jobs/en/jobs/?gh_jid=7916663 | Coupang | Senior Manager, Sourcing & Product Strategy (Direct Factory) | 2.4/5 | PDF ❌ (SKIP — off North Star, sourcing/procurement domain)
+- [!] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager — DEAD: greenhouse 404 (2026-06-27)
+- [!] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager — DEAD: greenhouse 404 (2026-06-27)
+- [!] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | PM - Display Advertising (Growth Marketing) — DEAD: greenhouse 404, gh_jid 6659262 not in board (2026-06-27)
+- [!] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | PM - Search Advertising (Growth Marketing) — DEAD: greenhouse 404, gh_jid 6703354 not in board (2026-06-27)
+- [!] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior PMM, Market Intelligence — DEAD: greenhouse 404 (2026-06-27)
+- [!] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager — DEAD: greenhouse 404 (2026-06-27)
+- [!] https://jobs.lever.co/pinkoi/8af15639-0d12-4100-825b-443f740de2b7 | Pinkoi | (Sr.) Digital Performance Marketing Specialist — DEAD: lever 404, posting closed (already evaluated as #029, 2026-06-27)
