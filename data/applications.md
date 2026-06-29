@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 32 | 2026-06-29 | Heidi Health | Product Manager, Apps | 3.8/5 | Evaluated | ❌ | [032](../reports/032-heidi-apps-2026-06-29.md) | AU AI healthcare unicorn (Sydney/Melbourne); strong PM archetype + AI-native/build-first culture fit, but deep native-mobile platform craft is a real gap and 4+yr consumer-PM tenure is a stretch |
+| 33 | 2026-06-29 | Heidi Health | Product Manager, Intelligence | 4.0/5 | Evaluated | ❌ | [033](../reports/033-heidi-intelligence-2026-06-29.md) | Best Heidi fit: data+AI-native discovery with retention/expansion economics; Mercer data-to-insight maps directly; gap is formal data-platform tenure + healthcare domain |
+| 34 | 2026-06-29 | MYOB | Senior Product Marketing Manager - Monetisation | 4.0/5 | Evaluated | ❌ | [034](../reports/034-myob-2026-06-29.md) | Melbourne hybrid; near-bullseye on finance×growth×pricing×AI differentiator; gap is no titled Senior-PMM tenure + enterprise-scale exec presence |
 | 31 | 2026-06-12 | EY | AI Engineer, AI GTM Engine Room | 2.2/5 | Evaluated | ❌ | [031](../reports/031-ey-2026-06-12.md) | Hard no per profile: explicit AI Engineer / enterprise AI delivery role; technically interesting, but outside growth/product target lane. |
 | 30 | 2026-06-11 | KPMG | AI Solution Designer | 2.3/5 | Evaluated | ❌ | [030](../reports/030-kpmg-2026-06-11.md) | Hard no per profile: Solutions Architect/AI Engineer-style enterprise implementation role; strong comp/location but poor target alignment. |
 | 29 | 2026-06-11 | Pinkoi | (Sr.) Digital Performance Marketing Specialist / （資深）數位廣告投手 | 4.1/5 | Applied | ✅ | [029](../reports/029-pinkoi-2026-06-11.md) | Re-eval 2026-06-11 (3.5→4.1). Strong Taipei growth-marketing fit: paid channels, funnel analytics, A/B testing, and ecommerce new-buyer growth; main risk is undisclosed comp vs NT$100k/month floor. |
