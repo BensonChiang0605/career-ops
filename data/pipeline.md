@@ -52,6 +52,7 @@
 - [ ] https://jobs.lever.co/myob-2/ff79308c-d0db-4ccc-bf4a-57ff5c363de9 | MYOB | Partnerships Marketing Manager
 - [ ] https://jobs.lever.co/Zeller/be5427b3-9ff8-4f0d-b039-e2016dfd901f | Zeller | Product Marketing Manager
 - [ ] https://jobs.lever.co/jobscan-2/7d40b350-3294-43c8-abac-6432e727b799 | Jobscan | Senior Performance Marketing Manager - Taiwan
+- [ ] https://jobs.lever.co/shopback-2/05c0b1fd-c931-42c5-b58b-ed41e924337e | ShopBack | Product Manager (Search Team)
 
 ## Procesadas
 
