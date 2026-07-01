@@ -2,6 +2,12 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 32 | 2026-07-01 | Heidi Health | Product Manager, Apps | 3.5/5 | Evaluated | ❌ | [032](../reports/032-heidi-2026-07-01.md) | AI health scribe; AI-native builder edge, but native mobile craft gap + tenure |
+| 33 | 2026-07-01 | Heidi Health | Product Manager, Intelligence | 3.7/5 | Evaluated | ❌ | [033](../reports/033-heidi-2026-07-01.md) | Data/analytics PM; best-fitting Heidi role (finance-grade data rigour); tenure soft gap |
+| 34 | 2026-07-01 | MYOB | Senior Product Marketing Manager, Monetisation | 3.9/5 | Evaluated | ❌ | [034](../reports/034-myob-2026-07-01.md) | Finance x growth monetisation = strongest thematic fit; senior-tenure stretch |
+| 35 | 2026-07-01 | Airwallex | GTM Partnerships Manager, AU, SME & Growth | 3.4/5 | Evaluated | ❌ | [035](../reports/035-airwallex-2026-07-01.md) | Partnerships archetype + fintech; missing AU accounting network (core asset) |
+| 36 | 2026-07-01 | Airwallex | Senior Manager, Financial Partnerships APAC | 2.0/5 | SKIP | ❌ | [036](../reports/036-airwallex-2026-07-01.md) | SKIP: SG on-site deal-breaker + 7yr/bank/M&A domain out of range |
+| 37 | 2026-07-01 | Gogolook | Senior Strategic Business Development Manager (Roo) | 3.3/5 | Evaluated | ❌ | [037](../reports/037-gogolook-2026-07-01.md) | Taipei/bilingual/fintech context fits; senior 5-8yr + team-lead + quota-sales gap |
 | 31 | 2026-06-12 | EY | AI Engineer, AI GTM Engine Room | 2.2/5 | Evaluated | ❌ | [031](../reports/031-ey-2026-06-12.md) | Hard no per profile: explicit AI Engineer / enterprise AI delivery role; technically interesting, but outside growth/product target lane. |
 | 30 | 2026-06-11 | KPMG | AI Solution Designer | 2.3/5 | Evaluated | ❌ | [030](../reports/030-kpmg-2026-06-11.md) | Hard no per profile: Solutions Architect/AI Engineer-style enterprise implementation role; strong comp/location but poor target alignment. |
 | 29 | 2026-06-11 | Pinkoi | (Sr.) Digital Performance Marketing Specialist / （資深）數位廣告投手 | 4.1/5 | Applied | ✅ | [029](../reports/029-pinkoi-2026-06-11.md) | Re-eval 2026-06-11 (3.5→4.1). Strong Taipei growth-marketing fit: paid channels, funnel analytics, A/B testing, and ecommerce new-buyer growth; main risk is undisclosed comp vs NT$100k/month floor. |
