@@ -1,6 +1,8 @@
 ## Pendientes
 
 <!-- Not evaluated in the 2026-06-07 run: out-of-scope role types (Sales/SDR/AE/CS, marketing/copywriter). Evaluate later with /career-ops pipeline if desired. -->
+<!-- 2026-06-13 scheduled pipeline run: could NOT run personalized evaluation — config/profile.yml + portals.yml are gitignored and absent from the fresh cloud container (doctor.mjs: onboardingNeeded=true). Playwright browsers also unavailable (egress-blocked). Ran a config-free liveness pass via Greenhouse/Ashby/Lever APIs instead: 21 of 23 pending live, 2 marked DEAD below. All 21 live items remain out-of-scope (Sales/SDR/AE/CS/marketing) for a PM/Growth profile — left pending for the user's decision, not auto-evaluated. -->
+
 
 - [ ] https://jobs.ashbyhq.com/heidihealth.com.au/c023c208-9a9e-4a83-be76-abd3514efd7b | Heidi Health | Account Executive (Commercial)
 - [ ] https://jobs.ashbyhq.com/heidihealth.com.au/ebb59341-ef24-44b5-b3ef-c85b8cdbd1c5 | Heidi Health | Account Executive (Enterprise)
@@ -8,12 +10,12 @@
 - [ ] https://jobs.ashbyhq.com/heidihealth.com.au/c2d15424-b3a0-41eb-9c65-170c7d35ec71 | Heidi Health | Customer Success Manager (Enterprise)
 - [ ] https://jobs.ashbyhq.com/netwealth/6f829d0a-773f-4130-9fc5-6ab04346a875 | Netwealth | Senior Business Development Manager
 - [ ] https://jobs.ashbyhq.com/airwallex/7ceae593-2d91-4eaf-bdf0-9d9a833d0675 | Airwallex | Senior Account Executive
-- [ ] https://jobs.ashbyhq.com/airwallex/af575d67-58af-4140-98cc-71125144d3e5 | Airwallex | Inbound Sales Executive, SME & Growth
+- [!] https://jobs.ashbyhq.com/airwallex/af575d67-58af-4140-98cc-71125144d3e5 | Airwallex | Inbound Sales Executive, SME & Growth — DEAD: not in Ashby job-board API (2026-06-13 liveness pass)
 - [ ] https://jobs.ashbyhq.com/airwallex/bc9c0595-e1ff-46ee-b57f-9eb41cbe7bab | Airwallex | Senior Account Executive, Enterprise
 - [ ] https://jobs.ashbyhq.com/airwallex/72b5e7b9-a02c-4cd6-b42d-75f0d707525a | Airwallex | Partnerships Development Representative
 - [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7859957 | Culture Amp | Sales Development Representative, Allbound
 - [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7981231 | Culture Amp | Scaled Customer Success Manager - 12 month FTC
-- [ ] https://jobs.lever.co/objective/a37f279a-a4ea-4e7b-8ac5-2427bba30384 | Objective | Manager, Customer Success
+- [!] https://jobs.lever.co/objective/a37f279a-a4ea-4e7b-8ac5-2427bba30384 | Objective | Manager, Customer Success — DEAD: Lever API 404 (2026-06-13 liveness pass)
 - [ ] https://jobs.lever.co/Zeller/2c3b9e56-270e-44b7-959d-e3293de878c1 | Zeller | Account Executive (Mid-Market)
 - [ ] https://jobs.lever.co/Zeller/c8ac7f14-623a-4262-9e00-1cadd46d8ccb | Zeller | Account Executive (SMB)
 - [ ] https://jobs.lever.co/Zeller/8c733b5a-8297-4675-8010-8b82036eff44 | Zeller | Enterprise Business Development Manager
