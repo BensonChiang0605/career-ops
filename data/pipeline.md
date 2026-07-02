@@ -31,22 +31,20 @@
 
 <!-- 2026-06-15 WebSearch scan (Level 3) — 6 new offers added -->
 
-- [ ] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager
-- [ ] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager
-- [ ] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | Product Manager - Display Advertising (Growth Marketing)
-- [ ] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | Product Manager - Search Advertising (Growth Marketing)
-- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence
-- [ ] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager
+<!-- 2026-07-02 /career-ops pipeline run: in-scope Product/Growth items verified DEAD via ATS JSON API (Playwright browser unavailable in this environment) -->
+- [!] https://boards.greenhouse.io/neuron/jobs/4617139003 | Neuron Mobility | Global Growth Manager — DEAD: greenhouse board `neuron` returns 404 (board token invalid or removed)
+- [!] https://boards.greenhouse.io/coupang/jobs/7515120 | Coupang | Product Manager — DEAD: not in current coupang board (651 jobs live; only Taipei PM roles #011-#013 remain)
+- [!] https://www.coupang.jobs/en/jobs/6659262/product-manager-display-advertising-growth-marketing/ | Coupang | Product Manager - Display Advertising (Growth Marketing) — DEAD: gh_jid 6659262 not in current coupang board
+- [!] https://www.coupang.jobs/en/jobs/6703354/product-manager-search-advertising-growth-marketing/ | Coupang | Product Manager - Search Advertising (Growth Marketing) — DEAD: gh_jid 6703354 not in current coupang board
+- [!] https://job-boards.greenhouse.io/cultureamp/jobs/7659603 | Culture Amp | Senior Product Marketing Manager, Market Intelligence — DEAD: not in current cultureamp board (18 jobs live)
+- [!] https://job-boards.greenhouse.io/placementsio/jobs/5048223007 | Placements.io | Technical Product Manager — DEAD: not in current placementsio board (5 jobs live)
 
 
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/656f84a5-fa57-4394-826c-e72bc3a9ef57 | Heidi Health | Product Manager, Apps
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/9ef84427-7820-4f93-afdc-75178511bd33 | Heidi Health | Product Manager, Intelligence
-- [ ] https://jobs.ashbyhq.com/heidihealth.com.au/7ac69cba-cc19-4407-ba02-b05ee55d1e30 | Heidi Health | Senior Growth Analyst
-- [ ] https://jobs.lever.co/myob-2/dccb3db8-4734-408a-a613-56cf2785f501 | MYOB | Senior Product Marketing Manager - Growth & Monestisation
-- [ ] https://jobs.ashbyhq.com/airwallex/b64077ca-eed1-4d03-8a5e-1fc5278ef38b | Airwallex | Sales Development Representative, SME & Growth
-- [ ] https://jobs.ashbyhq.com/airwallex/00a7bbce-af16-4d4d-b36b-50034b5d9038 | Airwallex | Senior Manager, Financial Partnerships APAC
-- [ ] https://jobs.ashbyhq.com/airwallex/8dde93d5-14a0-4b6c-8b66-1f83bc0f0057 | Airwallex | Account Manager, SME & Growth
-- [ ] https://jobs.ashbyhq.com/airwallex/54a449ac-0018-45a9-91fe-19d1a8b9ef30 | Airwallex | GTM Partnerships Manager, AU, SME & Growth
+- [!] https://jobs.ashbyhq.com/heidihealth.com.au/656f84a5-fa57-4394-826c-e72bc3a9ef57 | Heidi Health | Product Manager, Apps — DEAD: not in current Heidi Ashby board (89 jobs live)
+- [!] https://jobs.ashbyhq.com/heidihealth.com.au/9ef84427-7820-4f93-afdc-75178511bd33 | Heidi Health | Product Manager, Intelligence — DEAD: not in current Heidi Ashby board (89 jobs live)
+- [!] https://jobs.ashbyhq.com/heidihealth.com.au/7ac69cba-cc19-4407-ba02-b05ee55d1e30 | Heidi Health | Senior Growth Analyst — DEAD: not in current Heidi Ashby board (89 jobs live)
+- [ ] https://jobs.ashbyhq.com/airwallex/b64077ca-eed1-4d03-8a5e-1fc5278ef38b | Airwallex | Sales Development Representative, SME & Growth <!-- deferred: pure SDR, out of target archetypes -->
+- [ ] https://jobs.ashbyhq.com/airwallex/8dde93d5-14a0-4b6c-8b66-1f83bc0f0057 | Airwallex | Account Manager, SME & Growth <!-- deferred: account-management/sales-adjacent, out of target archetypes -->
 
 ## Procesadas
 
@@ -72,6 +70,9 @@
 - [x] #020 | https://apply.workable.com/lyka/j/64F14E4168/ | Lyka | Senior Product Manager (Growth) | 4.3/5 | PDF ✅
 - [x] #021 | https://jobs.lever.co/aircall/6a3fe0a1-94e3-47ac-a945-b7a7183650dc | Aircall | Senior Product Manager - Growth for Small Businesses | 2.4/5 | PDF ❌ (SKIP — NY/US work rights)
 - [x] #022 | https://jobs.ashbyhq.com/airwallex/5488d78e-72fb-4c26-b743-af0fca4069c0 | Airwallex | Senior Product Manager, Corporate Site | 2.5/5 | PDF ❌ (SKIP — US/SF remote-US work-rights blocker + 6yr seniority gap)
+- [x] #032 | https://jobs.lever.co/myob-2/dccb3db8-4734-408a-a613-56cf2785f501 | MYOB | Senior Product Marketing Manager - Monetisation | 4.0/5 | PDF ❌ (strongest fit in batch; Melbourne hybrid; PDF pending — browser unavailable)
+- [x] #033 | https://jobs.ashbyhq.com/airwallex/54a449ac-0018-45a9-91fe-19d1a8b9ef30 | Airwallex | GTM Partnerships Manager, AU, SME & Growth | 3.5/5 | PDF ❌ (opportunistic GTM/partnerships; Sydney; PDF pending — browser unavailable)
+- [x] #034 | https://jobs.ashbyhq.com/airwallex/00a7bbce-af16-4d4d-b36b-50034b5d9038 | Airwallex | Senior Manager, Financial Partnerships APAC | 2.3/5 | PDF ❌ (SKIP — off-archetype + Singapore work-rights blocker)
 - [!] https://job-boards.greenhouse.io/wgachidden/jobs/8328723002 | Who Gives A Crap | Senior PM (AU) — DEAD: greenhouse 404 (board token `wgachidden` invalid; real token `whogivesacrap`, role no longer listed)
 - [!] https://job-boards.greenhouse.io/wgachidden/jobs/8328732002 | Who Gives A Crap | Senior PM (AU) Acquisition — DEAD: greenhouse 404 (role no longer listed on whogivesacrap board)
 - [!] https://apply.workable.com/eightcap/j/5188954B31 | Eightcap | Product Growth Manager — DEAD: expired (liveness checker: nav/footer only; Workable API "Job not found")
